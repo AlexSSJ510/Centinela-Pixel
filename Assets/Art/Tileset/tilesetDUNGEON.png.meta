@@ -1,0 +1,6281 @@
+fileFormatVersion: 2
+guid: f826846ef7abd4e48a3c5e7ff2914ed3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1482771289359899157
+    second: tilesetDUNGEON_0
+  - first:
+      213: 7523563010959681265
+    second: tilesetDUNGEON_1
+  - first:
+      213: 7860807276282766085
+    second: tilesetDUNGEON_2
+  - first:
+      213: 3433456541915985294
+    second: tilesetDUNGEON_3
+  - first:
+      213: 6909917256529359979
+    second: tilesetDUNGEON_4
+  - first:
+      213: -3025539468676480282
+    second: tilesetDUNGEON_5
+  - first:
+      213: -2330023861300457920
+    second: tilesetDUNGEON_6
+  - first:
+      213: 217198273297426126
+    second: tilesetDUNGEON_7
+  - first:
+      213: -9054422852246819562
+    second: tilesetDUNGEON_8
+  - first:
+      213: -6275540011976253485
+    second: tilesetDUNGEON_9
+  - first:
+      213: -5470548787434129731
+    second: tilesetDUNGEON_10
+  - first:
+      213: -5724493100369178458
+    second: tilesetDUNGEON_11
+  - first:
+      213: 7388588655722703813
+    second: tilesetDUNGEON_12
+  - first:
+      213: -6871640030636706693
+    second: tilesetDUNGEON_13
+  - first:
+      213: -2285085909230879068
+    second: tilesetDUNGEON_14
+  - first:
+      213: -1446085640829239479
+    second: tilesetDUNGEON_15
+  - first:
+      213: -6547388968820354771
+    second: tilesetDUNGEON_16
+  - first:
+      213: 6105318518502015704
+    second: tilesetDUNGEON_17
+  - first:
+      213: 6375159650798322230
+    second: tilesetDUNGEON_18
+  - first:
+      213: -4476959205247322087
+    second: tilesetDUNGEON_19
+  - first:
+      213: 3987470695637376082
+    second: tilesetDUNGEON_20
+  - first:
+      213: -5151267571884995832
+    second: tilesetDUNGEON_21
+  - first:
+      213: 5616139974872760902
+    second: tilesetDUNGEON_22
+  - first:
+      213: 7256028726289927544
+    second: tilesetDUNGEON_23
+  - first:
+      213: -4201386313418038612
+    second: tilesetDUNGEON_24
+  - first:
+      213: -7747958912704263843
+    second: tilesetDUNGEON_25
+  - first:
+      213: -8503904602100564549
+    second: tilesetDUNGEON_26
+  - first:
+      213: 967797536642210981
+    second: tilesetDUNGEON_27
+  - first:
+      213: -2486240235254177521
+    second: tilesetDUNGEON_28
+  - first:
+      213: 1359121665136095692
+    second: tilesetDUNGEON_29
+  - first:
+      213: 4682542493471953793
+    second: tilesetDUNGEON_30
+  - first:
+      213: -3866641881334032267
+    second: tilesetDUNGEON_31
+  - first:
+      213: 6007206688207545229
+    second: tilesetDUNGEON_32
+  - first:
+      213: -4559557580589209729
+    second: tilesetDUNGEON_33
+  - first:
+      213: 5040472317243185460
+    second: tilesetDUNGEON_34
+  - first:
+      213: -6870782798295032272
+    second: tilesetDUNGEON_35
+  - first:
+      213: 4963946023535895086
+    second: tilesetDUNGEON_36
+  - first:
+      213: 6533351181803677694
+    second: tilesetDUNGEON_37
+  - first:
+      213: -2787649396367518256
+    second: tilesetDUNGEON_38
+  - first:
+      213: -6507657538168309435
+    second: tilesetDUNGEON_39
+  - first:
+      213: 2156741545768792904
+    second: tilesetDUNGEON_40
+  - first:
+      213: -6229247843220785850
+    second: tilesetDUNGEON_41
+  - first:
+      213: 4754896894217347275
+    second: tilesetDUNGEON_42
+  - first:
+      213: -150343395008466304
+    second: tilesetDUNGEON_43
+  - first:
+      213: -4640696984821238254
+    second: tilesetDUNGEON_44
+  - first:
+      213: 2125401498481871528
+    second: tilesetDUNGEON_45
+  - first:
+      213: 1310388333375897868
+    second: tilesetDUNGEON_46
+  - first:
+      213: -8133072029269766547
+    second: tilesetDUNGEON_47
+  - first:
+      213: -6016166892146379862
+    second: tilesetDUNGEON_48
+  - first:
+      213: 6664153245354785669
+    second: tilesetDUNGEON_49
+  - first:
+      213: 549106554494763651
+    second: tilesetDUNGEON_50
+  - first:
+      213: -438661361415489573
+    second: tilesetDUNGEON_51
+  - first:
+      213: 9145431839819901488
+    second: tilesetDUNGEON_52
+  - first:
+      213: -3430099955975696913
+    second: tilesetDUNGEON_53
+  - first:
+      213: -406997948264609373
+    second: tilesetDUNGEON_54
+  - first:
+      213: -8402467179104968887
+    second: tilesetDUNGEON_55
+  - first:
+      213: 8868477614807213485
+    second: tilesetDUNGEON_56
+  - first:
+      213: 2090632920955551279
+    second: tilesetDUNGEON_57
+  - first:
+      213: 815124997234590960
+    second: tilesetDUNGEON_58
+  - first:
+      213: 7096099509092807672
+    second: tilesetDUNGEON_59
+  - first:
+      213: 7083096939345097013
+    second: tilesetDUNGEON_60
+  - first:
+      213: 2957546031519140611
+    second: tilesetDUNGEON_61
+  - first:
+      213: -8779677419970925207
+    second: tilesetDUNGEON_62
+  - first:
+      213: 7281331527783857976
+    second: tilesetDUNGEON_63
+  - first:
+      213: -4193004940572911865
+    second: tilesetDUNGEON_64
+  - first:
+      213: 3163915124392967433
+    second: tilesetDUNGEON_65
+  - first:
+      213: 3470547624328632670
+    second: tilesetDUNGEON_66
+  - first:
+      213: 7247704977942553459
+    second: tilesetDUNGEON_67
+  - first:
+      213: 5855777622162266859
+    second: tilesetDUNGEON_68
+  - first:
+      213: 7784037236554948604
+    second: tilesetDUNGEON_69
+  - first:
+      213: -1455862395824905778
+    second: tilesetDUNGEON_70
+  - first:
+      213: -883668923241018519
+    second: tilesetDUNGEON_71
+  - first:
+      213: -7049671804431237509
+    second: tilesetDUNGEON_72
+  - first:
+      213: -2388181763914793804
+    second: tilesetDUNGEON_73
+  - first:
+      213: -5614307137263110714
+    second: tilesetDUNGEON_74
+  - first:
+      213: 4257180640157038131
+    second: tilesetDUNGEON_75
+  - first:
+      213: 3446871772517229941
+    second: tilesetDUNGEON_76
+  - first:
+      213: -9216399053495414298
+    second: tilesetDUNGEON_77
+  - first:
+      213: -6689085141258862320
+    second: tilesetDUNGEON_78
+  - first:
+      213: -5585009017698447956
+    second: tilesetDUNGEON_79
+  - first:
+      213: 897629544476980256
+    second: tilesetDUNGEON_80
+  - first:
+      213: -4448881149310086647
+    second: tilesetDUNGEON_81
+  - first:
+      213: -5653321344625928884
+    second: tilesetDUNGEON_82
+  - first:
+      213: -3740804352141482694
+    second: tilesetDUNGEON_83
+  - first:
+      213: 8851997015024951607
+    second: tilesetDUNGEON_84
+  - first:
+      213: -456246224767507327
+    second: tilesetDUNGEON_85
+  - first:
+      213: -7106087792216468794
+    second: tilesetDUNGEON_86
+  - first:
+      213: -4955009808845650991
+    second: tilesetDUNGEON_87
+  - first:
+      213: 2355848641389599437
+    second: tilesetDUNGEON_88
+  - first:
+      213: 3717459289510286840
+    second: tilesetDUNGEON_89
+  - first:
+      213: -6568252569962367515
+    second: tilesetDUNGEON_90
+  - first:
+      213: 8198543087116582081
+    second: tilesetDUNGEON_91
+  - first:
+      213: -980165759799393965
+    second: tilesetDUNGEON_92
+  - first:
+      213: 6651145605236328761
+    second: tilesetDUNGEON_93
+  - first:
+      213: 5617865727137350891
+    second: tilesetDUNGEON_94
+  - first:
+      213: -7362203144389276938
+    second: tilesetDUNGEON_95
+  - first:
+      213: 6464368128365218451
+    second: tilesetDUNGEON_96
+  - first:
+      213: -6637051032416784467
+    second: tilesetDUNGEON_97
+  - first:
+      213: -734600362763526210
+    second: tilesetDUNGEON_98
+  - first:
+      213: -4737344792481822535
+    second: tilesetDUNGEON_99
+  - first:
+      213: -753325411443465545
+    second: tilesetDUNGEON_100
+  - first:
+      213: -4774930173023004476
+    second: tilesetDUNGEON_101
+  - first:
+      213: -2823072888486222384
+    second: tilesetDUNGEON_102
+  - first:
+      213: -4062406728934637097
+    second: tilesetDUNGEON_103
+  - first:
+      213: -5962036589431742288
+    second: tilesetDUNGEON_104
+  - first:
+      213: 1543193591542072284
+    second: tilesetDUNGEON_105
+  - first:
+      213: 6959955512350929535
+    second: tilesetDUNGEON_106
+  - first:
+      213: -2577771635051959577
+    second: tilesetDUNGEON_107
+  - first:
+      213: -4255929547919391877
+    second: tilesetDUNGEON_108
+  - first:
+      213: -400110662605355244
+    second: tilesetDUNGEON_109
+  - first:
+      213: 5586426458797980812
+    second: tilesetDUNGEON_110
+  - first:
+      213: -1920175956640868543
+    second: tilesetDUNGEON_111
+  - first:
+      213: 8839156388402020835
+    second: tilesetDUNGEON_112
+  - first:
+      213: -2105818922015046050
+    second: tilesetDUNGEON_113
+  - first:
+      213: -1201885425493036965
+    second: tilesetDUNGEON_114
+  - first:
+      213: -4027911617196277416
+    second: tilesetDUNGEON_115
+  - first:
+      213: 3208876138038182613
+    second: tilesetDUNGEON_116
+  - first:
+      213: -3845149941146666470
+    second: tilesetDUNGEON_117
+  - first:
+      213: 102804790870733691
+    second: tilesetDUNGEON_118
+  - first:
+      213: -6324333275360586970
+    second: tilesetDUNGEON_119
+  - first:
+      213: -99694684356000360
+    second: tilesetDUNGEON_120
+  - first:
+      213: 9182305363866474939
+    second: tilesetDUNGEON_121
+  - first:
+      213: -3875350279590768700
+    second: tilesetDUNGEON_122
+  - first:
+      213: -8017115700175233056
+    second: tilesetDUNGEON_123
+  - first:
+      213: 1125193003826615380
+    second: tilesetDUNGEON_124
+  - first:
+      213: 4557978446943679726
+    second: tilesetDUNGEON_125
+  - first:
+      213: -2332180301912156135
+    second: tilesetDUNGEON_126
+  - first:
+      213: 930061238260846862
+    second: tilesetDUNGEON_127
+  - first:
+      213: -786742323195543550
+    second: tilesetDUNGEON_128
+  - first:
+      213: -8714093621953039441
+    second: tilesetDUNGEON_129
+  - first:
+      213: -5079658346794408349
+    second: tilesetDUNGEON_130
+  - first:
+      213: 2008552955212136095
+    second: tilesetDUNGEON_131
+  - first:
+      213: 1621959163910469481
+    second: tilesetDUNGEON_132
+  - first:
+      213: 3099918569792712568
+    second: tilesetDUNGEON_133
+  - first:
+      213: -7263190232954079908
+    second: tilesetDUNGEON_134
+  - first:
+      213: -3170177290703860710
+    second: tilesetDUNGEON_135
+  - first:
+      213: -3973789409760917946
+    second: tilesetDUNGEON_136
+  - first:
+      213: -5922182495831690928
+    second: tilesetDUNGEON_137
+  - first:
+      213: 6990654551348129830
+    second: tilesetDUNGEON_138
+  - first:
+      213: -2102546928488687492
+    second: tilesetDUNGEON_139
+  - first:
+      213: 2281756130369539300
+    second: tilesetDUNGEON_140
+  - first:
+      213: 8516261165981812282
+    second: tilesetDUNGEON_141
+  - first:
+      213: -3636810257436637111
+    second: tilesetDUNGEON_142
+  - first:
+      213: -242914756018475301
+    second: tilesetDUNGEON_143
+  - first:
+      213: -4447805172957863051
+    second: tilesetDUNGEON_144
+  - first:
+      213: -8759169542775670116
+    second: tilesetDUNGEON_145
+  - first:
+      213: -8525077671277014853
+    second: tilesetDUNGEON_146
+  - first:
+      213: 7134084381405825985
+    second: tilesetDUNGEON_147
+  - first:
+      213: 2890394799023899614
+    second: tilesetDUNGEON_148
+  - first:
+      213: -5883081654439129185
+    second: tilesetDUNGEON_149
+  - first:
+      213: 5709979485891877854
+    second: tilesetDUNGEON_150
+  - first:
+      213: -6999125203847073330
+    second: tilesetDUNGEON_151
+  - first:
+      213: -3310172048162870681
+    second: tilesetDUNGEON_152
+  - first:
+      213: -881865664004137186
+    second: tilesetDUNGEON_153
+  - first:
+      213: -2897581298026209062
+    second: tilesetDUNGEON_154
+  - first:
+      213: -1236935243198526901
+    second: tilesetDUNGEON_155
+  - first:
+      213: 6846337443733560521
+    second: tilesetDUNGEON_156
+  - first:
+      213: 4278084733269531746
+    second: tilesetDUNGEON_157
+  - first:
+      213: -1604579305191808822
+    second: tilesetDUNGEON_158
+  - first:
+      213: -2101390922907414905
+    second: tilesetDUNGEON_159
+  - first:
+      213: -1524580037925449239
+    second: tilesetDUNGEON_160
+  - first:
+      213: -6638777743136997459
+    second: tilesetDUNGEON_161
+  - first:
+      213: 3659923534627142881
+    second: tilesetDUNGEON_162
+  - first:
+      213: 407220237361859570
+    second: tilesetDUNGEON_163
+  - first:
+      213: -5562636805310011576
+    second: tilesetDUNGEON_164
+  - first:
+      213: 5487835229346331054
+    second: tilesetDUNGEON_165
+  - first:
+      213: 6357235031611436012
+    second: tilesetDUNGEON_166
+  - first:
+      213: 8062256567891360589
+    second: tilesetDUNGEON_167
+  - first:
+      213: 6242347521620488758
+    second: tilesetDUNGEON_168
+  - first:
+      213: -3088760343188288837
+    second: tilesetDUNGEON_169
+  - first:
+      213: 2039986242686553950
+    second: tilesetDUNGEON_170
+  - first:
+      213: -410272055113826630
+    second: tilesetDUNGEON_171
+  - first:
+      213: 8884943438501715822
+    second: tilesetDUNGEON_172
+  - first:
+      213: 5205033045884586653
+    second: tilesetDUNGEON_173
+  - first:
+      213: -4646785657187555450
+    second: tilesetDUNGEON_174
+  - first:
+      213: 6028181055944660264
+    second: tilesetDUNGEON_175
+  - first:
+      213: -3362306342912739662
+    second: tilesetDUNGEON_176
+  - first:
+      213: -5597336599771250531
+    second: tilesetDUNGEON_177
+  - first:
+      213: 5070713197774964929
+    second: tilesetDUNGEON_178
+  - first:
+      213: -4839501819240052840
+    second: tilesetDUNGEON_179
+  - first:
+      213: 20378440366182223
+    second: tilesetDUNGEON_180
+  - first:
+      213: 8325721285749764913
+    second: tilesetDUNGEON_181
+  - first:
+      213: -1436041923430194387
+    second: tilesetDUNGEON_182
+  - first:
+      213: 56361184575493601
+    second: tilesetDUNGEON_183
+  - first:
+      213: -1179515892988409792
+    second: tilesetDUNGEON_184
+  - first:
+      213: 8346030130465954339
+    second: tilesetDUNGEON_185
+  - first:
+      213: -1248260692982143881
+    second: tilesetDUNGEON_186
+  - first:
+      213: 1335044947678559765
+    second: tilesetDUNGEON_187
+  - first:
+      213: -6128963938971779524
+    second: tilesetDUNGEON_188
+  - first:
+      213: 1167055835780551290
+    second: tilesetDUNGEON_189
+  - first:
+      213: 1393134459131348178
+    second: tilesetDUNGEON_190
+  - first:
+      213: 1700535471780063939
+    second: tilesetDUNGEON_191
+  - first:
+      213: -5607839471269790498
+    second: tilesetDUNGEON_192
+  - first:
+      213: 8299674171598484300
+    second: tilesetDUNGEON_193
+  - first:
+      213: 2448965577921220678
+    second: tilesetDUNGEON_194
+  - first:
+      213: 4813169596625590689
+    second: tilesetDUNGEON_195
+  - first:
+      213: -6337163508453085468
+    second: tilesetDUNGEON_196
+  - first:
+      213: 1467179565687255246
+    second: tilesetDUNGEON_197
+  - first:
+      213: -728701874260804110
+    second: tilesetDUNGEON_198
+  - first:
+      213: 4624502832408268
+    second: tilesetDUNGEON_199
+  - first:
+      213: -4152563362305559613
+    second: tilesetDUNGEON_200
+  - first:
+      213: 3889360390516402392
+    second: tilesetDUNGEON_201
+  - first:
+      213: -7812980870467962421
+    second: tilesetDUNGEON_202
+  - first:
+      213: -5437136479833755996
+    second: tilesetDUNGEON_203
+  - first:
+      213: -7853774828298936851
+    second: tilesetDUNGEON_204
+  - first:
+      213: 4625068408598067829
+    second: tilesetDUNGEON_205
+  - first:
+      213: -8281393046542436549
+    second: tilesetDUNGEON_206
+  - first:
+      213: -6307284752609503738
+    second: tilesetDUNGEON_207
+  - first:
+      213: -4795185042102543383
+    second: tilesetDUNGEON_208
+  - first:
+      213: 5188866353466904284
+    second: tilesetDUNGEON_209
+  - first:
+      213: 5406968581820801800
+    second: tilesetDUNGEON_210
+  - first:
+      213: -4046538051443438345
+    second: tilesetDUNGEON_211
+  - first:
+      213: -2247220668439932358
+    second: tilesetDUNGEON_212
+  - first:
+      213: 2232785413850894878
+    second: tilesetDUNGEON_213
+  - first:
+      213: -9068317263016389390
+    second: tilesetDUNGEON_214
+  - first:
+      213: -6123491908473152986
+    second: tilesetDUNGEON_215
+  - first:
+      213: -7371558001220690864
+    second: tilesetDUNGEON_216
+  - first:
+      213: 4172189095954248393
+    second: tilesetDUNGEON_217
+  - first:
+      213: -1207544183313126908
+    second: tilesetDUNGEON_218
+  - first:
+      213: -206537569712642678
+    second: tilesetDUNGEON_219
+  - first:
+      213: 2908631902831407700
+    second: tilesetDUNGEON_220
+  - first:
+      213: -3356147690092257456
+    second: tilesetDUNGEON_221
+  - first:
+      213: 5850872140507300870
+    second: tilesetDUNGEON_222
+  - first:
+      213: 1217058670718735035
+    second: tilesetDUNGEON_223
+  - first:
+      213: -8102059343695293635
+    second: tilesetDUNGEON_224
+  - first:
+      213: 2488573512170172396
+    second: tilesetDUNGEON_225
+  - first:
+      213: -8760798982938598017
+    second: tilesetDUNGEON_226
+  - first:
+      213: 3476333801757477558
+    second: tilesetDUNGEON_227
+  - first:
+      213: 6165724932444442841
+    second: tilesetDUNGEON_228
+  - first:
+      213: 2691024556583838504
+    second: tilesetDUNGEON_229
+  - first:
+      213: -3154922858756206935
+    second: tilesetDUNGEON_230
+  - first:
+      213: -189182032596891031
+    second: tilesetDUNGEON_231
+  - first:
+      213: -6011130726027065773
+    second: tilesetDUNGEON_232
+  - first:
+      213: 8348816738457212995
+    second: tilesetDUNGEON_233
+  - first:
+      213: -6052693829736007886
+    second: tilesetDUNGEON_234
+  - first:
+      213: 322835135610334636
+    second: tilesetDUNGEON_235
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilesetDUNGEON_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ad171b1acd39410800000000000000
+      internalID: 1482771289359899157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6258962b0196860800000000000000
+      internalID: 7523563010959681265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503e3a6c192371d60800000000000000
+      internalID: 7860807276282766085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85b4ac988616af20800000000000000
+      internalID: 3433456541915985294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 323
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6436ce6225f4ef50800000000000000
+      internalID: 6909917256529359979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e24d9b12ef1306d0800000000000000
+      internalID: -3025539468676480282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e8005a4a71aafd0800000000000000
+      internalID: -2330023861300457920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 323
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6a8b5cda4a30300800000000000000
+      internalID: 217198273297426126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 323
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d26a5636a385280800000000000000
+      internalID: -9054422852246819562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df976cbb9dc8e8a0800000000000000
+      internalID: -6275540011976253485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db67b8eacd4b414b0800000000000000
+      internalID: -5470548787434129731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a01259dad38e80b0800000000000000
+      internalID: -5724493100369178458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb25d76c3a898660800000000000000
+      internalID: 7388588655722703813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 306
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b747b85bcc703a0a0800000000000000
+      internalID: -6871640030636706693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aefa03f87eb940e0800000000000000
+      internalID: -2285085909230879068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f749775c87eebe0800000000000000
+      internalID: -1446085640829239479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 306
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21d6232c600325a0800000000000000
+      internalID: -6547388968820354771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 306
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d24def58d27ab450800000000000000
+      internalID: 6105318518502015704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 306
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632cc34eced197850800000000000000
+      internalID: 6375159650798322230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9187151a255aed1c0800000000000000
+      internalID: -4476959205247322087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cdebd9877565730800000000000000
+      internalID: 3987470695637376082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b4eca9f650388b0800000000000000
+      internalID: -5151267571884995832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64289233d8980fd40800000000000000
+      internalID: 5616139974872760902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d8a86bea792b460800000000000000
+      internalID: 7256028726289927544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2a788686da1b5c0800000000000000
+      internalID: -4201386313418038612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59c0f95b68b97490800000000000000
+      internalID: -7747958912704263843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd7cfbe1df0cf980800000000000000
+      internalID: -8503904602100564549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac9e026bbe4e6d00800000000000000
+      internalID: 967797536642210981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_28
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 297
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01246fbda91f7dd0800000000000000
+      internalID: -2486240235254177521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 297
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc179f814f19cd210800000000000000
+      internalID: 1359121665136095692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 289
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1835111b69bbbf040800000000000000
+      internalID: 4682542493471953793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578df6df1bde65ac0800000000000000
+      internalID: -3866641881334032267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8326f6c7a2ed5350800000000000000
+      internalID: 6007206688207545229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f776a0cb98239b0c0800000000000000
+      internalID: -4559557580589209729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4395871fdda53f540800000000000000
+      internalID: 5040472317243185460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_35
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e92caa27316a0a0800000000000000
+      internalID: -6870782798295032272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22e119bb9a73e440800000000000000
+      internalID: 4963946023535895086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef76940e8402baa50800000000000000
+      internalID: 6533351181803677694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d59e23c4a74059d0800000000000000
+      internalID: -2787649396367518256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_39
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 280
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549b595b2f720b5a0800000000000000
+      internalID: -6507657538168309435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 280
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84330eb42094eed10800000000000000
+      internalID: 2156741545768792904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 280
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645f4fe27144d89a0800000000000000
+      internalID: -6229247843220785850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_42
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0ee636889ccf140800000000000000
+      internalID: 4754896894217347275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082b1329a7fd9edf0800000000000000
+      internalID: -150343395008466304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 255
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216f0850eaee89fb0800000000000000
+      internalID: -4640696984821238254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 255
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa481ae661fe7d10800000000000000
+      internalID: 2125401498481871528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_46
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 255
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01cfa81f3f6f2210800000000000000
+      internalID: 1310388333375897868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ec5ba8416812f80800000000000000
+      internalID: -8133072029269766547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_48
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3362c2618428ca0800000000000000
+      internalID: -6016166892146379862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b73268114db7c50800000000000000
+      internalID: 6664153245354785669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_50
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382cf748081de9700800000000000000
+      internalID: 549106554494763651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_51
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7f320e0df89e9f0800000000000000
+      internalID: -438661361415489573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_52
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 255
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a2302cdc91bee70800000000000000
+      internalID: 9145431839819901488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_53
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed4cf37346d560d0800000000000000
+      internalID: -3430099955975696913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_54
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 255
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9006db58d0a5af0800000000000000
+      internalID: -406997948264609373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_55
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fd1986e90746b80800000000000000
+      internalID: -8402467179104968887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_56
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da566194769231b70800000000000000
+      internalID: 8868477614807213485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_57
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 238
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2efa41a09b630d10800000000000000
+      internalID: 2090632920955551279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_58
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 238
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f485b3cdd7ef4b00800000000000000
+      internalID: 815124997234590960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_59
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3fc4228e86a7260800000000000000
+      internalID: 7096099509092807672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_60
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531325373273c4260800000000000000
+      internalID: 7083096939345097013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b809722705b0920800000000000000
+      internalID: 2957546031519140611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_62
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d6d1c37e1582680800000000000000
+      internalID: -8779677419970925207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_63
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fb865427c7c0560800000000000000
+      internalID: 7281331527783857976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_64
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 246
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70791b7d8347fc5c0800000000000000
+      internalID: -4193004940572911865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_65
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 246
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dbde0ea0c78eb20800000000000000
+      internalID: 3163915124392967433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_66
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e591f243dacd92030800000000000000
+      internalID: 3470547624328632670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_67
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373a8170745059460800000000000000
+      internalID: 7247704977942553459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_68
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bead9acd8b6e34150800000000000000
+      internalID: 5855777622162266859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_69
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff554300a4760c60800000000000000
+      internalID: 7784037236554948604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_70
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1e10f4ddcbbcbe0800000000000000
+      internalID: -1455862395824905778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 229
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bca23dbc39cb3f0800000000000000
+      internalID: -883668923241018519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_72
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 229
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ef9c938d88a2e90800000000000000
+      internalID: -7049671804431237509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_73
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcfaceb6597bded0800000000000000
+      internalID: -2388181763914793804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_74
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5fd7f8769f512b0800000000000000
+      internalID: -5614307137263110714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_75
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336fa399c3b841b30800000000000000
+      internalID: 4257180640157038131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_76
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575e5336d9fb5df20800000000000000
+      internalID: 3446871772517229941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_77
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1d82434e5c81080800000000000000
+      internalID: -9216399053495414298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_78
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0110cea11889b23a0800000000000000
+      internalID: -6689085141258862320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_79
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad0bb893ef0e72b0800000000000000
+      internalID: -5585009017698447956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_80
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024327a9055057c00800000000000000
+      internalID: 897629544476980256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902d0777a266242c0800000000000000
+      internalID: -4448881149310086647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45107c803e5b81b0800000000000000
+      internalID: -5653321344625928884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a352f58e24ef51cc0800000000000000
+      internalID: -3740804352141482694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_84
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7316161a26c98da70800000000000000
+      internalID: 8851997015024951607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_85
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184ae92d9761ba9f0800000000000000
+      internalID: -456246224767507327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_86
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2923a7dca126d90800000000000000
+      internalID: -7106087792216468794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_87
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3cd25e4d44c3bb0800000000000000
+      internalID: -4955009808845650991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_88
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca1d968bd7a1b020800000000000000
+      internalID: 2355848641389599437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_89
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f59c322781179330800000000000000
+      internalID: 3717459289510286840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_90
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5b8547611e8d4a0800000000000000
+      internalID: -6568252569962367515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_91
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc715fff7317c170800000000000000
+      internalID: 8198543087116582081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_92
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35108224f60c562f0800000000000000
+      internalID: -980165759799393965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_93
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939038d40bd9d4c50800000000000000
+      internalID: 6651145605236328761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be40dd53d1ba6fd40800000000000000
+      internalID: 5617865727137350891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_95
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fac96e2f3334d990800000000000000
+      internalID: -7362203144389276938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_96
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ac094209c06b950800000000000000
+      internalID: 6464368128365218451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_97
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf68a8204574e3a0800000000000000
+      internalID: -6637051032416784467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_98
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf5b95bcdc2ec5f0800000000000000
+      internalID: -734600362763526210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b80391c202914eb0800000000000000
+      internalID: -4737344792481822535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_100
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b223a29786ab85f0800000000000000
+      internalID: -753325411443465545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_101
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c85ba96e4a0cbdb0800000000000000
+      internalID: -4774930173023004476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_102
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d52eba4a2e62d8d0800000000000000
+      internalID: -2823072888486222384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_103
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1c1b48a9e6f97c0800000000000000
+      internalID: -4062406728934637097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_104
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b02a056f47924da0800000000000000
+      internalID: -5962036589431742288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_105
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3468335668a6510800000000000000
+      internalID: 1543193591542072284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_106
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72f23eb9aab69060800000000000000
+      internalID: 6959955512350929535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_107
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea66a40b5ae93cd0800000000000000
+      internalID: -2577771635051959577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_108
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b730d2300a6efe4c0800000000000000
+      internalID: -4255929547919391877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_109
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417cf84e875827af0800000000000000
+      internalID: -400110662605355244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_110
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c3f702449f68d40800000000000000
+      internalID: 5586426458797980812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_111
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147dc26142a2a55e0800000000000000
+      internalID: -1920175956640868543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_112
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1c3d447edfaaa70800000000000000
+      internalID: 8839156388402020835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e564ff7f8d0a6c2e0800000000000000
+      internalID: -2105818922015046050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_114
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50b4c8c29b025fe0800000000000000
+      internalID: -1201885425493036965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_115
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851c85699bbf918c0800000000000000
+      internalID: -4027911617196277416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_116
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d24eff98d7388c20800000000000000
+      internalID: 3208876138038182613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_117
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ab6d1408843aac0800000000000000
+      internalID: -3845149941146666470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_118
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73fe01a96c3d6100800000000000000
+      internalID: 102804790870733691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_119
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62313f0d4647b38a0800000000000000
+      internalID: -6324333275360586970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_120
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89547f87630dd9ef0800000000000000
+      internalID: -99694684356000360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_121
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9dc68141a1e6f70800000000000000
+      internalID: 9182305363866474939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_122
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf08c4047df73ac0800000000000000
+      internalID: -3875350279590768700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_123
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef19d74fbb7db090800000000000000
+      internalID: -8017115700175233056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45417d0531d7d9f00800000000000000
+      internalID: 1125193003826615380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_125
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4f6ff8f31314f30800000000000000
+      internalID: 4557978446943679726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_126
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918dc503f5e62afd0800000000000000
+      internalID: -2332180301912156135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_127
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 128
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01d5edb4cd38ec00800000000000000
+      internalID: 930061238260846862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_128
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2000a20860ee415f0800000000000000
+      internalID: -786742323195543550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_129
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3fdf32502511780800000000000000
+      internalID: -8714093621953039441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_130
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366a8f295ad6189b0800000000000000
+      internalID: -5079658346794408349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_131
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9efaff5540dfdb10800000000000000
+      internalID: 2008552955212136095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_132
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967b21d144b528610800000000000000
+      internalID: 1621959163910469481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_133
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 136
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fa121e38f150b20800000000000000
+      internalID: 3099918569792712568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_134
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c557fa417f6f33b90800000000000000
+      internalID: -7263190232954079908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_135
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c0698ec844104d0800000000000000
+      internalID: -3170177290703860710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_136
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646cdfaf5934ad8c0800000000000000
+      internalID: -3973789409760917946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0517ae8a56e20dda0800000000000000
+      internalID: -5922182495831690928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_138
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620b290c64bc30160800000000000000
+      internalID: 6990654551348129830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_139
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78d7d355b042d2e0800000000000000
+      internalID: -2102546928488687492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_140
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec0fbe7c1d6aaf10800000000000000
+      internalID: 2281756130369539300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_141
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36ccccc866df2670800000000000000
+      internalID: 8516261165981812282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_142
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9480ef9e654778dc0800000000000000
+      internalID: -3636810257436637111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_143
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde61d0015ef0acf0800000000000000
+      internalID: -242914756018475301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_144
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573a3bbb2c83642c0800000000000000
+      internalID: -4447805172957863051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_145
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a7f6b75bd217680800000000000000
+      internalID: -8759169542775670116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_146
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb05be89607d0b980800000000000000
+      internalID: -8525077671277014853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_147
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb4b5762fb510360800000000000000
+      internalID: 7134084381405825985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_148
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3c47871cebc1820800000000000000
+      internalID: 2890394799023899614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_149
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fc98ab7681b5ea0800000000000000
+      internalID: -5883081654439129185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_150
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb5a53f61ced3f40800000000000000
+      internalID: 5709979485891877854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_151
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec13636c5bc1ede90800000000000000
+      internalID: -6999125203847073330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_152
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 102
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a23db6f08ef02d0800000000000000
+      internalID: -3310172048162870681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_153
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f5b65d9dbf2c3f0800000000000000
+      internalID: -881865664004137186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_154
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad025575929b9c7d0800000000000000
+      internalID: -2897581298026209062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_155
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a8dfa23f585dee0800000000000000
+      internalID: -1236935243198526901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_156
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccd132b1a3130f50800000000000000
+      internalID: 6846337443733560521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_157
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c5d8d066fce5b30800000000000000
+      internalID: 4278084733269531746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_158
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac069149f936bb9e0800000000000000
+      internalID: -1604579305191808822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_159
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e8fd9d61c56d2e0800000000000000
+      internalID: -2101390922907414905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_160
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e15dc7788a97dae0800000000000000
+      internalID: -1524580037925449239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_161
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafbc8df0d25ed3a0800000000000000
+      internalID: -6638777743136997459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_162
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecfa8a4019aac230800000000000000
+      internalID: 3659923534627142881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_163
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbcd49f5acb6a500800000000000000
+      internalID: 407220237361859570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_164
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847abf43c4b8dc2b0800000000000000
+      internalID: -5562636805310011576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_165
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9ff07b015b82c40800000000000000
+      internalID: 5487835229346331054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_166
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 85
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb6ed4449f693850800000000000000
+      internalID: 6357235031611436012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_167
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b793102a3e2ef60800000000000000
+      internalID: 8062256567891360589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_168
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 93
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632babe5ff541a650800000000000000
+      internalID: 6242347521620488758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_169
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 93
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbac2f335d48225d0800000000000000
+      internalID: -3088760343188288837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_170
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f040eedac7f4c10800000000000000
+      internalID: 2039986242686553950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_171
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abebba55dbb6e4af0800000000000000
+      internalID: -410272055113826630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_172
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 51
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f155d9bf8ad4b70800000000000000
+      internalID: 8884943438501715822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_173
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ace105afdfb3840800000000000000
+      internalID: 5205033045884586653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_174
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687a4f3801d438fb0800000000000000
+      internalID: -4646785657187555450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_175
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82512515bb668a350800000000000000
+      internalID: 6028181055944660264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_176
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6b4a40230b651d0800000000000000
+      internalID: -3362306342912739662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_177
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90875ab4044252b0800000000000000
+      internalID: -5597336599771250531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_178
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8034f99cace5640800000000000000
+      internalID: 5070713197774964929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_179
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89707567cb2a6dcb0800000000000000
+      internalID: -4839501819240052840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_180
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f4a136516684000800000000000000
+      internalID: 20378440366182223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_181
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133f508d567ea8370800000000000000
+      internalID: 8325721285749764913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_182
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23ef57aa77221ce0800000000000000
+      internalID: -1436041923430194387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_183
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e51eb1e23c38c000800000000000000
+      internalID: 56361184575493601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_184
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0488f7f6b8481afe0800000000000000
+      internalID: -1179515892988409792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_185
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a512b3f2e03d370800000000000000
+      internalID: 8346030130465954339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_186
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77467b763894daee0800000000000000
+      internalID: -1248260692982143881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_187
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e7f897e48078210800000000000000
+      internalID: 1335044947678559765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_188
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e786825cb81faa0800000000000000
+      internalID: -6128963938971779524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_189
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a721fbc6917323010800000000000000
+      internalID: 1167055835780551290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_190
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d441e0d868655310800000000000000
+      internalID: 1393134459131348178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_191
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cae6637004899710800000000000000
+      internalID: 1700535471780063939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_192
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcbc8566b3fc22b0800000000000000
+      internalID: -5607839471269790498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_193
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43bc9d7fad5e2370800000000000000
+      internalID: 8299674171598484300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_194
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640572bc7397cf120800000000000000
+      internalID: 2448965577921220678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_195
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a914923f30dbc240800000000000000
+      internalID: 4813169596625590689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_196
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eee5136d5fdd08a0800000000000000
+      internalID: -6337163508453085468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_197
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec03082aa087c5410800000000000000
+      internalID: 1467179565687255246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_198
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdf585918123e5f0800000000000000
+      internalID: -728701874260804110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_199
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6a698f5fd601000800000000000000
+      internalID: 4624502832408268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_200
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3b97a8f912f56c0800000000000000
+      internalID: -4152563362305559613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_201
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d864302ba8c9f530800000000000000
+      internalID: 3889360390516402392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_202
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9b5d21b47b29390800000000000000
+      internalID: -7812980870467962421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_203
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aee034cd296b84b0800000000000000
+      internalID: -5437136479833755996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_204
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded565d9769c10390800000000000000
+      internalID: -7853774828298936851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_205
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a7e54863b8f2040800000000000000
+      internalID: 4625068408598067829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_206
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37b27f96e4921d80800000000000000
+      internalID: -8281393046542436549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_207
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60619775fe50878a0800000000000000
+      internalID: -6307284752609503738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_208
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb16353c94147db0800000000000000
+      internalID: -4795185042102543383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_209
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde0f59e47e820840800000000000000
+      internalID: 5188866353466904284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_210
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803602f1749690b40800000000000000
+      internalID: 5406968581820801800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_211
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fccc99e41fc7d7c0800000000000000
+      internalID: -4046538051443438345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_212
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32d8b555b440d0e0800000000000000
+      internalID: -2247220668439932358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_213
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12914c01827cfe10800000000000000
+      internalID: 2232785413850894878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_214
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f49d5bce7dd62280800000000000000
+      internalID: -9068317263016389390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_215
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a9a7a8d8cf40ba0800000000000000
+      internalID: -6123491908473152986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_216
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c5d08dd07f2b990800000000000000
+      internalID: -7371558001220690864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_217
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c27c18a0e796e930800000000000000
+      internalID: 4172189095954248393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_218
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a280f86f0fd3fe0800000000000000
+      internalID: -1207544183313126908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_219
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a856184bc2b322df0800000000000000
+      internalID: -206537569712642678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_220
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45272a61e498d5820800000000000000
+      internalID: 2908631902831407700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_221
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f9d4e15719c61d0800000000000000
+      internalID: -3356147690092257456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_222
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604ca296639723150800000000000000
+      internalID: 5850872140507300870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_223
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2dffaa96cd3e010800000000000000
+      internalID: 1217058670718735035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_224
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3358e514f3bf8f80800000000000000
+      internalID: -8102059343695293635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_225
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef695e9c60398220800000000000000
+      internalID: 2488573512170172396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_226
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f756751edb36b6680800000000000000
+      internalID: -8760798982938598017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_227
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba007e9c2b6e3030800000000000000
+      internalID: 3476333801757477558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_228
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0de1d982e019550800000000000000
+      internalID: 6165724932444442841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_229
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82368099390785520800000000000000
+      internalID: 2691024556583838504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_230
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae831e10667734d0800000000000000
+      internalID: -3154922858756206935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_231
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a0d2591f3ef5df0800000000000000
+      internalID: -189182032596891031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_232
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35688b8f37c249ca0800000000000000
+      internalID: -6011130726027065773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_233
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348d396f694fcd370800000000000000
+      internalID: 8348816738457212995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_234
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237f268c703800ca0800000000000000
+      internalID: -6052693829736007886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetDUNGEON_235
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cada11b68d0fa7400800000000000000
+      internalID: 322835135610334636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 547cd3aa57997a44f80ba9c8ed0f9cd3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      tilesetDUNGEON_0: 1482771289359899157
+      tilesetDUNGEON_1: 7523563010959681265
+      tilesetDUNGEON_10: -5470548787434129731
+      tilesetDUNGEON_100: -753325411443465545
+      tilesetDUNGEON_101: -4774930173023004476
+      tilesetDUNGEON_102: -2823072888486222384
+      tilesetDUNGEON_103: -4062406728934637097
+      tilesetDUNGEON_104: -5962036589431742288
+      tilesetDUNGEON_105: 1543193591542072284
+      tilesetDUNGEON_106: 6959955512350929535
+      tilesetDUNGEON_107: -2577771635051959577
+      tilesetDUNGEON_108: -4255929547919391877
+      tilesetDUNGEON_109: -400110662605355244
+      tilesetDUNGEON_11: -5724493100369178458
+      tilesetDUNGEON_110: 5586426458797980812
+      tilesetDUNGEON_111: -1920175956640868543
+      tilesetDUNGEON_112: 8839156388402020835
+      tilesetDUNGEON_113: -2105818922015046050
+      tilesetDUNGEON_114: -1201885425493036965
+      tilesetDUNGEON_115: -4027911617196277416
+      tilesetDUNGEON_116: 3208876138038182613
+      tilesetDUNGEON_117: -3845149941146666470
+      tilesetDUNGEON_118: 102804790870733691
+      tilesetDUNGEON_119: -6324333275360586970
+      tilesetDUNGEON_12: 7388588655722703813
+      tilesetDUNGEON_120: -99694684356000360
+      tilesetDUNGEON_121: 9182305363866474939
+      tilesetDUNGEON_122: -3875350279590768700
+      tilesetDUNGEON_123: -8017115700175233056
+      tilesetDUNGEON_124: 1125193003826615380
+      tilesetDUNGEON_125: 4557978446943679726
+      tilesetDUNGEON_126: -2332180301912156135
+      tilesetDUNGEON_127: 930061238260846862
+      tilesetDUNGEON_128: -786742323195543550
+      tilesetDUNGEON_129: -8714093621953039441
+      tilesetDUNGEON_13: -6871640030636706693
+      tilesetDUNGEON_130: -5079658346794408349
+      tilesetDUNGEON_131: 2008552955212136095
+      tilesetDUNGEON_132: 1621959163910469481
+      tilesetDUNGEON_133: 3099918569792712568
+      tilesetDUNGEON_134: -7263190232954079908
+      tilesetDUNGEON_135: -3170177290703860710
+      tilesetDUNGEON_136: -3973789409760917946
+      tilesetDUNGEON_137: -5922182495831690928
+      tilesetDUNGEON_138: 6990654551348129830
+      tilesetDUNGEON_139: -2102546928488687492
+      tilesetDUNGEON_14: -2285085909230879068
+      tilesetDUNGEON_140: 2281756130369539300
+      tilesetDUNGEON_141: 8516261165981812282
+      tilesetDUNGEON_142: -3636810257436637111
+      tilesetDUNGEON_143: -242914756018475301
+      tilesetDUNGEON_144: -4447805172957863051
+      tilesetDUNGEON_145: -8759169542775670116
+      tilesetDUNGEON_146: -8525077671277014853
+      tilesetDUNGEON_147: 7134084381405825985
+      tilesetDUNGEON_148: 2890394799023899614
+      tilesetDUNGEON_149: -5883081654439129185
+      tilesetDUNGEON_15: -1446085640829239479
+      tilesetDUNGEON_150: 5709979485891877854
+      tilesetDUNGEON_151: -6999125203847073330
+      tilesetDUNGEON_152: -3310172048162870681
+      tilesetDUNGEON_153: -881865664004137186
+      tilesetDUNGEON_154: -2897581298026209062
+      tilesetDUNGEON_155: -1236935243198526901
+      tilesetDUNGEON_156: 6846337443733560521
+      tilesetDUNGEON_157: 4278084733269531746
+      tilesetDUNGEON_158: -1604579305191808822
+      tilesetDUNGEON_159: -2101390922907414905
+      tilesetDUNGEON_16: -6547388968820354771
+      tilesetDUNGEON_160: -1524580037925449239
+      tilesetDUNGEON_161: -6638777743136997459
+      tilesetDUNGEON_162: 3659923534627142881
+      tilesetDUNGEON_163: 407220237361859570
+      tilesetDUNGEON_164: -5562636805310011576
+      tilesetDUNGEON_165: 5487835229346331054
+      tilesetDUNGEON_166: 6357235031611436012
+      tilesetDUNGEON_167: 8062256567891360589
+      tilesetDUNGEON_168: 6242347521620488758
+      tilesetDUNGEON_169: -3088760343188288837
+      tilesetDUNGEON_17: 6105318518502015704
+      tilesetDUNGEON_170: 2039986242686553950
+      tilesetDUNGEON_171: -410272055113826630
+      tilesetDUNGEON_172: 8884943438501715822
+      tilesetDUNGEON_173: 5205033045884586653
+      tilesetDUNGEON_174: -4646785657187555450
+      tilesetDUNGEON_175: 6028181055944660264
+      tilesetDUNGEON_176: -3362306342912739662
+      tilesetDUNGEON_177: -5597336599771250531
+      tilesetDUNGEON_178: 5070713197774964929
+      tilesetDUNGEON_179: -4839501819240052840
+      tilesetDUNGEON_18: 6375159650798322230
+      tilesetDUNGEON_180: 20378440366182223
+      tilesetDUNGEON_181: 8325721285749764913
+      tilesetDUNGEON_182: -1436041923430194387
+      tilesetDUNGEON_183: 56361184575493601
+      tilesetDUNGEON_184: -1179515892988409792
+      tilesetDUNGEON_185: 8346030130465954339
+      tilesetDUNGEON_186: -1248260692982143881
+      tilesetDUNGEON_187: 1335044947678559765
+      tilesetDUNGEON_188: -6128963938971779524
+      tilesetDUNGEON_189: 1167055835780551290
+      tilesetDUNGEON_19: -4476959205247322087
+      tilesetDUNGEON_190: 1393134459131348178
+      tilesetDUNGEON_191: 1700535471780063939
+      tilesetDUNGEON_192: -5607839471269790498
+      tilesetDUNGEON_193: 8299674171598484300
+      tilesetDUNGEON_194: 2448965577921220678
+      tilesetDUNGEON_195: 4813169596625590689
+      tilesetDUNGEON_196: -6337163508453085468
+      tilesetDUNGEON_197: 1467179565687255246
+      tilesetDUNGEON_198: -728701874260804110
+      tilesetDUNGEON_199: 4624502832408268
+      tilesetDUNGEON_2: 7860807276282766085
+      tilesetDUNGEON_20: 3987470695637376082
+      tilesetDUNGEON_200: -4152563362305559613
+      tilesetDUNGEON_201: 3889360390516402392
+      tilesetDUNGEON_202: -7812980870467962421
+      tilesetDUNGEON_203: -5437136479833755996
+      tilesetDUNGEON_204: -7853774828298936851
+      tilesetDUNGEON_205: 4625068408598067829
+      tilesetDUNGEON_206: -8281393046542436549
+      tilesetDUNGEON_207: -6307284752609503738
+      tilesetDUNGEON_208: -4795185042102543383
+      tilesetDUNGEON_209: 5188866353466904284
+      tilesetDUNGEON_21: -5151267571884995832
+      tilesetDUNGEON_210: 5406968581820801800
+      tilesetDUNGEON_211: -4046538051443438345
+      tilesetDUNGEON_212: -2247220668439932358
+      tilesetDUNGEON_213: 2232785413850894878
+      tilesetDUNGEON_214: -9068317263016389390
+      tilesetDUNGEON_215: -6123491908473152986
+      tilesetDUNGEON_216: -7371558001220690864
+      tilesetDUNGEON_217: 4172189095954248393
+      tilesetDUNGEON_218: -1207544183313126908
+      tilesetDUNGEON_219: -206537569712642678
+      tilesetDUNGEON_22: 5616139974872760902
+      tilesetDUNGEON_220: 2908631902831407700
+      tilesetDUNGEON_221: -3356147690092257456
+      tilesetDUNGEON_222: 5850872140507300870
+      tilesetDUNGEON_223: 1217058670718735035
+      tilesetDUNGEON_224: -8102059343695293635
+      tilesetDUNGEON_225: 2488573512170172396
+      tilesetDUNGEON_226: -8760798982938598017
+      tilesetDUNGEON_227: 3476333801757477558
+      tilesetDUNGEON_228: 6165724932444442841
+      tilesetDUNGEON_229: 2691024556583838504
+      tilesetDUNGEON_23: 7256028726289927544
+      tilesetDUNGEON_230: -3154922858756206935
+      tilesetDUNGEON_231: -189182032596891031
+      tilesetDUNGEON_232: -6011130726027065773
+      tilesetDUNGEON_233: 8348816738457212995
+      tilesetDUNGEON_234: -6052693829736007886
+      tilesetDUNGEON_235: 322835135610334636
+      tilesetDUNGEON_24: -4201386313418038612
+      tilesetDUNGEON_25: -7747958912704263843
+      tilesetDUNGEON_26: -8503904602100564549
+      tilesetDUNGEON_27: 967797536642210981
+      tilesetDUNGEON_28: -2486240235254177521
+      tilesetDUNGEON_29: 1359121665136095692
+      tilesetDUNGEON_3: 3433456541915985294
+      tilesetDUNGEON_30: 4682542493471953793
+      tilesetDUNGEON_31: -3866641881334032267
+      tilesetDUNGEON_32: 6007206688207545229
+      tilesetDUNGEON_33: -4559557580589209729
+      tilesetDUNGEON_34: 5040472317243185460
+      tilesetDUNGEON_35: -6870782798295032272
+      tilesetDUNGEON_36: 4963946023535895086
+      tilesetDUNGEON_37: 6533351181803677694
+      tilesetDUNGEON_38: -2787649396367518256
+      tilesetDUNGEON_39: -6507657538168309435
+      tilesetDUNGEON_4: 6909917256529359979
+      tilesetDUNGEON_40: 2156741545768792904
+      tilesetDUNGEON_41: -6229247843220785850
+      tilesetDUNGEON_42: 4754896894217347275
+      tilesetDUNGEON_43: -150343395008466304
+      tilesetDUNGEON_44: -4640696984821238254
+      tilesetDUNGEON_45: 2125401498481871528
+      tilesetDUNGEON_46: 1310388333375897868
+      tilesetDUNGEON_47: -8133072029269766547
+      tilesetDUNGEON_48: -6016166892146379862
+      tilesetDUNGEON_49: 6664153245354785669
+      tilesetDUNGEON_5: -3025539468676480282
+      tilesetDUNGEON_50: 549106554494763651
+      tilesetDUNGEON_51: -438661361415489573
+      tilesetDUNGEON_52: 9145431839819901488
+      tilesetDUNGEON_53: -3430099955975696913
+      tilesetDUNGEON_54: -406997948264609373
+      tilesetDUNGEON_55: -8402467179104968887
+      tilesetDUNGEON_56: 8868477614807213485
+      tilesetDUNGEON_57: 2090632920955551279
+      tilesetDUNGEON_58: 815124997234590960
+      tilesetDUNGEON_59: 7096099509092807672
+      tilesetDUNGEON_6: -2330023861300457920
+      tilesetDUNGEON_60: 7083096939345097013
+      tilesetDUNGEON_61: 2957546031519140611
+      tilesetDUNGEON_62: -8779677419970925207
+      tilesetDUNGEON_63: 7281331527783857976
+      tilesetDUNGEON_64: -4193004940572911865
+      tilesetDUNGEON_65: 3163915124392967433
+      tilesetDUNGEON_66: 3470547624328632670
+      tilesetDUNGEON_67: 7247704977942553459
+      tilesetDUNGEON_68: 5855777622162266859
+      tilesetDUNGEON_69: 7784037236554948604
+      tilesetDUNGEON_7: 217198273297426126
+      tilesetDUNGEON_70: -1455862395824905778
+      tilesetDUNGEON_71: -883668923241018519
+      tilesetDUNGEON_72: -7049671804431237509
+      tilesetDUNGEON_73: -2388181763914793804
+      tilesetDUNGEON_74: -5614307137263110714
+      tilesetDUNGEON_75: 4257180640157038131
+      tilesetDUNGEON_76: 3446871772517229941
+      tilesetDUNGEON_77: -9216399053495414298
+      tilesetDUNGEON_78: -6689085141258862320
+      tilesetDUNGEON_79: -5585009017698447956
+      tilesetDUNGEON_8: -9054422852246819562
+      tilesetDUNGEON_80: 897629544476980256
+      tilesetDUNGEON_81: -4448881149310086647
+      tilesetDUNGEON_82: -5653321344625928884
+      tilesetDUNGEON_83: -3740804352141482694
+      tilesetDUNGEON_84: 8851997015024951607
+      tilesetDUNGEON_85: -456246224767507327
+      tilesetDUNGEON_86: -7106087792216468794
+      tilesetDUNGEON_87: -4955009808845650991
+      tilesetDUNGEON_88: 2355848641389599437
+      tilesetDUNGEON_89: 3717459289510286840
+      tilesetDUNGEON_9: -6275540011976253485
+      tilesetDUNGEON_90: -6568252569962367515
+      tilesetDUNGEON_91: 8198543087116582081
+      tilesetDUNGEON_92: -980165759799393965
+      tilesetDUNGEON_93: 6651145605236328761
+      tilesetDUNGEON_94: 5617865727137350891
+      tilesetDUNGEON_95: -7362203144389276938
+      tilesetDUNGEON_96: 6464368128365218451
+      tilesetDUNGEON_97: -6637051032416784467
+      tilesetDUNGEON_98: -734600362763526210
+      tilesetDUNGEON_99: -4737344792481822535
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
