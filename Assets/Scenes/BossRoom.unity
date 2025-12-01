@@ -3536,7 +3536,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -3810,6 +3810,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2805914294106351852, guid: 8e49c1ab9fb09dd4aba9412de0b9afd3, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600460321598687308, guid: 8e49c1ab9fb09dd4aba9412de0b9afd3, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5813738241605556128, guid: 8e49c1ab9fb09dd4aba9412de0b9afd3, type: 3}
       propertyPath: m_Name
       value: Player
