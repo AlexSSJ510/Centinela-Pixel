@@ -18,7 +18,7 @@ public class Teleporter : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            Debug.Log("Teleport 2D activado");
+            // Opcional: transición con fade
             SceneManager.LoadScene(sceneToLoad);
         }
     }

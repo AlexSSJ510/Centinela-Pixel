@@ -2,32 +2,44 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using System.Collections;
 
-[RequireComponent(typeof(Rigidbody2D))]
-[RequireComponent(typeof(Animator))]
-[RequireComponent(typeof(SpriteRenderer))]
+[RequireComponent(typeof(Rigidbody2D), typeof(Animator), typeof(SpriteRenderer))]
 public class PlayerController : MonoBehaviour
 {
-    private PlayerInputActions input;
-    private Vector2 rawInput;
-    private Vector2 moveInput;
-
-    private Rigidbody2D rb;
-    private Animator animator;
-    private SpriteRenderer sr;
-
-    public GameObject hitbox;
-
+    [Header("Movement")]
     public float speed = 4f;
 
-    private void Awake()
+    [Header("Attack")]
+    public GameObject attackHitbox;
+    public float attackDuration = 0.15f;
+
+    [Header("Interaction")]
+    public float interactRange = 1f;
+    public Transform carryPoint;
+    public LayerMask interactableLayer;
+
+    // Componentes
+    private Rigidbody2D rb;
+    private Animator animator;
+    private PlayerInputActions input;
+
+    // Estado
+    private Vector2 moveInput;
+    private Vector2 lastDirection = Vector2.down;
+    private bool isAttacking = false;
+    private GameObject carriedObject = null;
+
+    // Propiedades
+    public bool IsCarrying => carriedObject != null;
+    public Vector2 LastDirection => lastDirection;
+
+    void Awake()
     {
-        input = new PlayerInputActions();
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        sr = GetComponent<SpriteRenderer>();
+        input = new PlayerInputActions();
     }
 
-    private void OnEnable()
+    void OnEnable()
     {
         input.Player.Enable();
         input.Player.Move.performed += OnMove;
@@ -36,27 +48,24 @@ public class PlayerController : MonoBehaviour
         input.Player.Interact.performed += OnInteract;
     }
 
-    private void OnDisable()
+    void OnDisable()
     {
-        input.Player.Move.performed -= OnMove;
-        input.Player.Move.canceled -= OnMove;
-        input.Player.Attack.performed -= OnAttack;
-        input.Player.Interact.performed -= OnInteract;
         input.Player.Disable();
     }
 
-    private void OnMove(InputAction.CallbackContext ctx)
+    void OnMove(InputAction.CallbackContext ctx)
     {
-        rawInput = ctx.ReadValue<Vector2>();
+        Vector2 raw = ctx.ReadValue<Vector2>();
 
-        // --- Movimiento cardinal estilo Zelda ---
-        if (Mathf.Abs(rawInput.x) > Mathf.Abs(rawInput.y))
+        // Movimiento cardinal (estilo Zelda)
+        if (raw.magnitude > 0.1f)
         {
-            moveInput = new Vector2(Mathf.Sign(rawInput.x), 0);
-        }
-        else if (Mathf.Abs(rawInput.y) > 0)
-        {
-            moveInput = new Vector2(0, Mathf.Sign(rawInput.y));
+            if (Mathf.Abs(raw.x) > Mathf.Abs(raw.y))
+                moveInput = new Vector2(Mathf.Sign(raw.x), 0);
+            else
+                moveInput = new Vector2(0, Mathf.Sign(raw.y));
+
+            lastDirection = moveInput;
         }
         else
         {
@@ -64,66 +73,104 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    private void Update()
+    void Update()
     {
-        // --- Parámetros del Animator estilo Zelda ---
-        animator.SetFloat("Horizontal", moveInput.x);
-        animator.SetFloat("Vertical", moveInput.y);
-
-        // --- Flip para izquierda ---
-        if (moveInput.x < 0)
-            sr.flipX = true;
-        else if (moveInput.x > 0)
-            sr.flipX = false;
-
-        Vector2 dir = moveInput;
-
-        if (dir.x > 0) hitbox.transform.localPosition = new Vector3(0.5f, 0, 0);
-        if (dir.x < 0) hitbox.transform.localPosition = new Vector3(-0.5f, 0, 0);
-        if (dir.y > 0) hitbox.transform.localPosition = new Vector3(0, 0.5f, 0);
-        if (dir.y < 0) hitbox.transform.localPosition = new Vector3(0, -0.5f, 0);
+        UpdateAnimator();
     }
 
-    private void FixedUpdate()
+    void FixedUpdate()
     {
-        rb.MovePosition(rb.position + moveInput * speed * Time.fixedDeltaTime);
+        if (!isAttacking)
+        {
+            rb.MovePosition(rb.position + moveInput * speed * Time.fixedDeltaTime);
+        }
     }
 
-    // ============================
-    //             ATAQUE
-    // ============================
-    private void OnAttack(InputAction.CallbackContext ctx)
+    void UpdateAnimator()
     {
+        // Siempre pasar la última dirección (para idle)
+        animator.SetFloat("DirX", lastDirection.x);
+        animator.SetFloat("DirY", lastDirection.y);
+
+        // Velocidad para walk/ idle
+        animator.SetFloat("Speed", moveInput.magnitude);
+
+        // Estado de carga
+        animator.SetBool("IsCarrying", IsCarrying);
+    }
+
+    void OnAttack(InputAction.CallbackContext ctx)
+    {
+        if (isAttacking || IsCarrying) return;
+
+        // IMPORTANTE: Setear dirección ANTES del trigger
+        animator.SetFloat("AtkDirX", lastDirection.x);
+        animator.SetFloat("AtkDirY", lastDirection.y);
         animator.SetTrigger("Attack");
 
-        // Activar hitbox solo durante unos frames
-        StartCoroutine(AttackWindow());
+        StartCoroutine(PerformAttack());
     }
 
-    private IEnumerator AttackWindow()
+    IEnumerator PerformAttack()
     {
-        hitbox.SetActive(true);
-        yield return new WaitForSeconds(0.15f); // tiempo del frame de impacto
-        hitbox.SetActive(false);
+        isAttacking = true;
+
+        if (attackHitbox != null)
+        {
+            // Posicionar hitbox en dirección
+            attackHitbox.transform.localPosition = lastDirection * 0.5f;
+            attackHitbox.SetActive(true);
+        }
+
+        yield return new WaitForSeconds(attackDuration);
+
+        if (attackHitbox != null)
+            attackHitbox.SetActive(false);
+
+        isAttacking = false;
     }
 
-    // ============================
-    //          INTERACTUAR
-    // ============================
-    private void OnInteract(InputAction.CallbackContext ctx)
+    void OnInteract(InputAction.CallbackContext ctx)
     {
-        Debug.Log("Interact!");
+        if (IsCarrying)
+            DropCarriedObject();
+        else
+            TryPickup();
+    }
 
-        Vector2 dir = moveInput;
-        if (dir == Vector2.zero)
-            dir = Vector2.down;
-
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, dir, 1f);
-
+    void TryPickup()
+    {
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, lastDirection, interactRange, interactableLayer);
         if (hit.collider != null)
         {
-            Debug.Log("Interacción con: " + hit.collider.name);
-            hit.collider.GetComponent<IInteractable>()?.Interact();
+            var portable = hit.collider.GetComponent<IPortable>();
+            if (portable != null && portable.CanBePickedUp())
+            {
+                PickUpObject(hit.collider.gameObject);
+            }
         }
+    }
+
+    void PickUpObject(GameObject obj)
+    {
+        carriedObject = obj;
+        if (obj.TryGetComponent<Rigidbody2D>(out var rbObj))
+            rbObj.simulated = false;
+
+        obj.transform.SetParent(carryPoint);
+        obj.transform.localPosition = Vector3.zero;
+        obj.GetComponent<IPortable>()?.OnPickedUp();
+    }
+
+    void DropCarriedObject()
+    {
+        if (carriedObject == null) return;
+
+        if (carriedObject.TryGetComponent<Rigidbody2D>(out var rbObj))
+            rbObj.simulated = true;
+
+        carriedObject.transform.SetParent(null);
+        carriedObject.GetComponent<IPortable>()?.OnDropped();
+        carriedObject = null;
     }
 }

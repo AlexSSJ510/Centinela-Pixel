@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 2805914294106351852}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.3, y: -0.8, z: 0}
+  m_LocalPosition: {x: 0.002, y: -0.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -77,7 +77,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.75, y: 1}
+  m_Size: {x: 0.75, y: 1.2}
   m_EdgeRadius: 0
 --- !u!114 &5223148950299491929
 MonoBehaviour:
@@ -92,6 +92,37 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHitbox
   damage: 1
+--- !u!1 &4620166435454344376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 981791441235952012}
+  m_Layer: 3
+  m_Name: CarryPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &981791441235952012
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4620166435454344376}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.499, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9067167307430873411}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &5813738241605556128
 GameObject:
   m_ObjectHideFlags: 0
@@ -106,7 +137,6 @@ GameObject:
   - component: {fileID: 1428828084479770273}
   - component: {fileID: 7751878518737961990}
   - component: {fileID: 4143674874113661567}
-  - component: {fileID: 4772708098665142095}
   - component: {fileID: 3490040718278398648}
   - component: {fileID: 5449267967939954337}
   m_Layer: 3
@@ -130,6 +160,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 35208400606625845}
+  - {fileID: 981791441235952012}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &7645004546165961749
@@ -288,22 +319,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 649041b07198d0941b157310d2bede80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  hitbox: {fileID: 2805914294106351852}
   speed: 4
---- !u!114 &4772708098665142095
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5813738241605556128}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0c5f10c23f29a684ebf2b3a7d7f98a94, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerInteract
-  range: 1
-  interactLayer:
+  attackHitbox: {fileID: 2805914294106351852}
+  attackDuration: 0.15
+  interactRange: 1
+  carryPoint: {fileID: 981791441235952012}
+  interactableLayer:
     serializedVersion: 2
     m_Bits: 256
 --- !u!114 &3490040718278398648
@@ -318,7 +339,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca5419e241d8ae14eb2410d4b6776850, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
-  maxHP: 10
+  maxHealth: 10
 --- !u!114 &5449267967939954337
 MonoBehaviour:
   m_ObjectHideFlags: 0

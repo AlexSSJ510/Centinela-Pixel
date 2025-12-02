@@ -1,0 +1,3158 @@
+fileFormatVersion: 2
+guid: 13f6239d7e2449b4897593fab4011cf5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 628612843465102316
+    second: TILESET Game_0
+  - first:
+      213: 2908735384057821650
+    second: TILESET Game_1
+  - first:
+      213: -196047571693155113
+    second: TILESET Game_2
+  - first:
+      213: -5817041527207480583
+    second: TILESET Game_3
+  - first:
+      213: 4326996161207055130
+    second: TILESET Game_4
+  - first:
+      213: 1249717291241112229
+    second: TILESET Game_5
+  - first:
+      213: -8598578587048978116
+    second: TILESET Game_6
+  - first:
+      213: -2112978128703274500
+    second: TILESET Game_7
+  - first:
+      213: 7024829329042460508
+    second: TILESET Game_8
+  - first:
+      213: 5854733136404506138
+    second: TILESET Game_9
+  - first:
+      213: -4556273270640532945
+    second: TILESET Game_10
+  - first:
+      213: -9069933451132268471
+    second: TILESET Game_11
+  - first:
+      213: 2055301410805614548
+    second: TILESET Game_12
+  - first:
+      213: 8480993594746862533
+    second: TILESET Game_13
+  - first:
+      213: -2006352728241284640
+    second: TILESET Game_14
+  - first:
+      213: -3812767777179019794
+    second: TILESET Game_15
+  - first:
+      213: 2145984411220688289
+    second: TILESET Game_16
+  - first:
+      213: -3364056925848900625
+    second: TILESET Game_17
+  - first:
+      213: 7028063745833498562
+    second: TILESET Game_18
+  - first:
+      213: -2036155655457216665
+    second: TILESET Game_19
+  - first:
+      213: 7226373832554521134
+    second: TILESET Game_20
+  - first:
+      213: 771941420377466643
+    second: TILESET Game_21
+  - first:
+      213: -3372343837483791324
+    second: TILESET Game_22
+  - first:
+      213: -6566338920037810280
+    second: TILESET Game_23
+  - first:
+      213: 6443646579343009733
+    second: TILESET Game_24
+  - first:
+      213: 8717848868376082982
+    second: TILESET Game_25
+  - first:
+      213: 997941666597566399
+    second: TILESET Game_26
+  - first:
+      213: -4437005533021805594
+    second: TILESET Game_27
+  - first:
+      213: -950352908187720862
+    second: TILESET Game_28
+  - first:
+      213: 435237088601589030
+    second: TILESET Game_29
+  - first:
+      213: 1296852893740442916
+    second: TILESET Game_30
+  - first:
+      213: -7412433579137753256
+    second: TILESET Game_31
+  - first:
+      213: -3080534632238322247
+    second: TILESET Game_32
+  - first:
+      213: -6051433740034225363
+    second: TILESET Game_33
+  - first:
+      213: -6534418207610209401
+    second: TILESET Game_34
+  - first:
+      213: -2271164502957178446
+    second: TILESET Game_35
+  - first:
+      213: 1848704956066650825
+    second: TILESET Game_36
+  - first:
+      213: 8336106579514655157
+    second: TILESET Game_37
+  - first:
+      213: 3975010009427400132
+    second: TILESET Game_38
+  - first:
+      213: 8920202065227714963
+    second: TILESET Game_39
+  - first:
+      213: 5276277804835573213
+    second: TILESET Game_40
+  - first:
+      213: -5607599343375293923
+    second: TILESET Game_41
+  - first:
+      213: 2154457202217971959
+    second: TILESET Game_42
+  - first:
+      213: -4149031534109572348
+    second: TILESET Game_43
+  - first:
+      213: 4616020385352936042
+    second: TILESET Game_44
+  - first:
+      213: 6951151787613390574
+    second: TILESET Game_45
+  - first:
+      213: -3287040599144938259
+    second: TILESET Game_46
+  - first:
+      213: -8143691682478138327
+    second: TILESET Game_47
+  - first:
+      213: 4895330450391687049
+    second: TILESET Game_48
+  - first:
+      213: -3062796178263851387
+    second: TILESET Game_49
+  - first:
+      213: -8668744747765054653
+    second: TILESET Game_50
+  - first:
+      213: -7347639768076300509
+    second: TILESET Game_51
+  - first:
+      213: 2841850835924620073
+    second: TILESET Game_52
+  - first:
+      213: 1380298903295053522
+    second: TILESET Game_53
+  - first:
+      213: -6536820206577918545
+    second: TILESET Game_54
+  - first:
+      213: 8475987462477234371
+    second: TILESET Game_55
+  - first:
+      213: 6924207497475902592
+    second: TILESET Game_56
+  - first:
+      213: -9103712187825527213
+    second: TILESET Game_57
+  - first:
+      213: 4518264029069184440
+    second: TILESET Game_58
+  - first:
+      213: -1562469577532292065
+    second: TILESET Game_59
+  - first:
+      213: -5223404982539381131
+    second: TILESET Game_60
+  - first:
+      213: 4460637480711900709
+    second: TILESET Game_61
+  - first:
+      213: 8879451610454574415
+    second: TILESET Game_62
+  - first:
+      213: 8407893037982833152
+    second: TILESET Game_63
+  - first:
+      213: 3801634515815563278
+    second: TILESET Game_64
+  - first:
+      213: -3349004093944397161
+    second: TILESET Game_65
+  - first:
+      213: 8727651242649590759
+    second: TILESET Game_66
+  - first:
+      213: -6418942126685766014
+    second: TILESET Game_67
+  - first:
+      213: -5116374873575338783
+    second: TILESET Game_68
+  - first:
+      213: 2882922237437665077
+    second: TILESET Game_69
+  - first:
+      213: -5185248813441557077
+    second: TILESET Game_70
+  - first:
+      213: 8637402193982289137
+    second: TILESET Game_71
+  - first:
+      213: -7248753975300415849
+    second: TILESET Game_72
+  - first:
+      213: -6388315301806196454
+    second: TILESET Game_73
+  - first:
+      213: 4886637355303086327
+    second: TILESET Game_74
+  - first:
+      213: -8944328325341126399
+    second: TILESET Game_75
+  - first:
+      213: -2538233189193843822
+    second: TILESET Game_76
+  - first:
+      213: -2282290030677977242
+    second: TILESET Game_77
+  - first:
+      213: 501082116496287075
+    second: TILESET Game_78
+  - first:
+      213: 7768120157450886001
+    second: TILESET Game_79
+  - first:
+      213: -8385972337606748339
+    second: TILESET Game_80
+  - first:
+      213: 1987989110320885279
+    second: TILESET Game_81
+  - first:
+      213: 9082483551758788673
+    second: TILESET Game_82
+  - first:
+      213: -1354125647407640522
+    second: TILESET Game_83
+  - first:
+      213: 2099557995749972599
+    second: TILESET Game_84
+  - first:
+      213: 4696545078749194244
+    second: TILESET Game_85
+  - first:
+      213: 3170841923528074743
+    second: TILESET Game_86
+  - first:
+      213: 329302565037589432
+    second: TILESET Game_87
+  - first:
+      213: -2081195200439311028
+    second: TILESET Game_88
+  - first:
+      213: 1995207948103809933
+    second: TILESET Game_89
+  - first:
+      213: 4152626508693470760
+    second: TILESET Game_90
+  - first:
+      213: -5562287518847345708
+    second: TILESET Game_91
+  - first:
+      213: 4100743008054205594
+    second: TILESET Game_92
+  - first:
+      213: -6642503088537130634
+    second: TILESET Game_93
+  - first:
+      213: -2168392957899890428
+    second: TILESET Game_94
+  - first:
+      213: 2171491590024694760
+    second: TILESET Game_95
+  - first:
+      213: -9020978384340845966
+    second: TILESET Game_96
+  - first:
+      213: 4837161895890663323
+    second: TILESET Game_97
+  - first:
+      213: -672547944030026947
+    second: TILESET Game_98
+  - first:
+      213: 7691674039734601714
+    second: TILESET Game_99
+  - first:
+      213: 1953334363193974443
+    second: TILESET Game_100
+  - first:
+      213: 3334308153149229426
+    second: TILESET Game_101
+  - first:
+      213: -997187937604469678
+    second: TILESET Game_102
+  - first:
+      213: -7653919488779168387
+    second: TILESET Game_103
+  - first:
+      213: -4115313624409580459
+    second: TILESET Game_104
+  - first:
+      213: 645046647792366398
+    second: TILESET Game_105
+  - first:
+      213: -8555453170133472439
+    second: TILESET Game_106
+  - first:
+      213: -6312819627450414082
+    second: TILESET Game_107
+  - first:
+      213: -2937574262804719459
+    second: TILESET Game_108
+  - first:
+      213: 2850576395916181922
+    second: TILESET Game_109
+  - first:
+      213: -365672411837388583
+    second: TILESET Game_110
+  - first:
+      213: -3876144808994436490
+    second: TILESET Game_111
+  - first:
+      213: -6701662972477192183
+    second: TILESET Game_112
+  - first:
+      213: -3891736529607241614
+    second: TILESET Game_113
+  - first:
+      213: -4379343822704849833
+    second: TILESET Game_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TILESET Game_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce35cf3fc0849b800800000000000000
+      internalID: 628612843465102316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d93060bb67ed5820800000000000000
+      internalID: 2908735384057821650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcc622b5cf774df0800000000000000
+      internalID: -196047571693155113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f23a1f0d87b54fa0800000000000000
+      internalID: -5817041527207480583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13b93d45149c0c30800000000000000
+      internalID: 4326996161207055130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2071e4143e75110800000000000000
+      internalID: 1249717291241112229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c395aa11556bba880800000000000000
+      internalID: -8598578587048978116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1c87446913da2e0800000000000000
+      internalID: -2112978128703274500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f425d3e053d7160800000000000000
+      internalID: 7024829329042460508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 189
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16691294c0304150800000000000000
+      internalID: 5854733136404506138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 189
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f222ddbb99dd4c0c0800000000000000
+      internalID: -4556273270640532945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94014dca49f112280800000000000000
+      internalID: -9069933451132268471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d78d616eb5e58c10800000000000000
+      internalID: 2055301410805614548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbff3d7dba82b570800000000000000
+      internalID: 8480993594746862533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9da03e2d00824e0800000000000000
+      internalID: -2006352728241284640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5503658e3561bc0800000000000000
+      internalID: -3812767777179019794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adb55cb37118cd10800000000000000
+      internalID: 2145984411220688289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb659aac087051d0800000000000000
+      internalID: -3364056925848900625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7f4359db2b88160800000000000000
+      internalID: 7028063745833498562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767e119283f1eb3e0800000000000000
+      internalID: -2036155655457216665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e222797b6bc394460800000000000000
+      internalID: 7226373832554521134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3176205c1ac76ba00800000000000000
+      internalID: 771941420377466643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c0d42b5270331d0800000000000000
+      internalID: -3372343837483791324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ff25cca8dafd4a0800000000000000
+      internalID: -6566338920037810280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7a6eb8c6e6c6950800000000000000
+      internalID: 6443646579343009733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62af81d4b550cf870800000000000000
+      internalID: 8717848868376082982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7fb1098a669dd00800000000000000
+      internalID: 997941666597566399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3eac9d9f69c62c0800000000000000
+      internalID: -4437005533021805594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2632630b01bafc2f0800000000000000
+      internalID: -950352908187720862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6254c2b73d54a0600800000000000000
+      internalID: 435237088601589030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4252659f5d85ff110800000000000000
+      internalID: 1296852893740442916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 156
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f115abeeeb12990800000000000000
+      internalID: -7412433579137753256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_32
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 156
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd6527c21ebf35d0800000000000000
+      internalID: -3080534632238322247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b4277431df40ca0800000000000000
+      internalID: -6051433740034225363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b7c81d2451155a0800000000000000
+      internalID: -6534418207610209401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1c2ceeae33b70e0800000000000000
+      internalID: -2271164502957178446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca5bd8dc5be7a910800000000000000
+      internalID: 1848704956066650825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 124
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b184c974cccfa370800000000000000
+      internalID: 8336106579514655157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_38
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 124
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5da860b821a2730800000000000000
+      internalID: 3975010009427400132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3919a9e548ceacb70800000000000000
+      internalID: 8920202065227714963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd808565ba193940800000000000000
+      internalID: 5276277804835573213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12e6678b1ecd22b0800000000000000
+      internalID: -5607599343375293923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_42
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0fbfd196b26ed10800000000000000
+      internalID: 2154457202217971959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_43
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403418f5dcdab66c0800000000000000
+      internalID: -4149031534109572348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_44
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a6ce075166f0040800000000000000
+      internalID: 4616020385352936042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee68488d8b3777060800000000000000
+      internalID: 6951151787613390574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4cda59df51262d0800000000000000
+      internalID: -3287040599144938259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_47
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c5699df8bcbfe80800000000000000
+      internalID: -8143691682478138327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_48
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fdfb9ab15bfe340800000000000000
+      internalID: 4895330450391687049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_49
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58eb82f6a13ce75d0800000000000000
+      internalID: -3062796178263851387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_50
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3434ee4b49e62b780800000000000000
+      internalID: -8668744747765054653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f47467f80f70a90800000000000000
+      internalID: -7347639768076300509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_52
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9231feb4748407720800000000000000
+      internalID: 2841850835924620073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de43c61a8ec72310800000000000000
+      internalID: 1380298903295053522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadd35ad7ac8845a0800000000000000
+      internalID: -6536820206577918545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_55
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0ce9d70b1c0a570800000000000000
+      internalID: 8475987462477234371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_56
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cc52e680ab71060800000000000000
+      internalID: 6924207497475902592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_57
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356e34baffd19a180800000000000000
+      internalID: -9103712187825527213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_58
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd0816123914be30800000000000000
+      internalID: 4518264029069184440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_59
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1445d2923ef05ae0800000000000000
+      internalID: -1562469577532292065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5761cb9d7dcb287b0800000000000000
+      internalID: -5223404982539381131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_61
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 69
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e40adb72e57ed30800000000000000
+      internalID: 4460637480711900709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_62
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f454a61c1362a3b70800000000000000
+      internalID: 8879451610454574415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_63
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a527ecb26dea470800000000000000
+      internalID: 8407893037982833152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e000d01437e12c430800000000000000
+      internalID: 3801634515815563278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_65
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7928d153582f581d0800000000000000
+      internalID: -3349004093944397161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_66
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb10a96098de1970800000000000000
+      internalID: 8727651242649590759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_67
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eba1115265be6a0800000000000000
+      internalID: -6418942126685766014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_68
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eccec2092cfef8b0800000000000000
+      internalID: -5116374873575338783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fdb852082320820800000000000000
+      internalID: 2882922237437665077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_70
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baddcc24dab4a08b0800000000000000
+      internalID: -5185248813441557077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_71
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f47e7258873ed770800000000000000
+      internalID: 8637402193982289137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e940e3aa0476b90800000000000000
+      internalID: -7248753975300415849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1936aa64152857a0800000000000000
+      internalID: -6388315301806196454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_74
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8aefcb8c2d0d340800000000000000
+      internalID: 4886637355303086327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_75
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101e395f6cc5fd380800000000000000
+      internalID: -8944328325341126399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_76
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b7ef0dc5266ccd0800000000000000
+      internalID: -2538233189193843822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_77
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66716072f4da350e0800000000000000
+      internalID: -2282290030677977242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_78
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365ef05b78334f600800000000000000
+      internalID: 501082116496287075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_79
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b596d3028edcb60800000000000000
+      internalID: 7768120157450886001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_80
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4792b8f69a0f9b80800000000000000
+      internalID: -8385972337606748339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_81
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e65022091c69b10800000000000000
+      internalID: 1987989110320885279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_82
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14829e45ba67b0e70800000000000000
+      internalID: 9082483551758788673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_83
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630950de5ed253de0800000000000000
+      internalID: -1354125647407640522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_84
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a120a8fd0232d10800000000000000
+      internalID: 2099557995749972599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_85
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4086472adda7d2140800000000000000
+      internalID: 4696545078749194244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_86
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5aecafde7110c20800000000000000
+      internalID: 3170841923528074743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_87
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3c0bc20fae19400800000000000000
+      internalID: 329302565037589432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_88
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c452199edfb1e13e0800000000000000
+      internalID: -2081195200439311028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_89
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b73c7ce0760bb10800000000000000
+      internalID: 1995207948103809933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_90
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e7b8fdec711a930800000000000000
+      internalID: 4152626508693470760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_91
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbd38cc8f8cec2b0800000000000000
+      internalID: -5562287518847345708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_92
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cdc360a04c8e830800000000000000
+      internalID: 4100743008054205594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_93
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6792f4c62a611d3a0800000000000000
+      internalID: -6642503088537130634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_94
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4012beae71258e1e0800000000000000
+      internalID: -2168392957899890428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_95
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb8b289810b22e10800000000000000
+      internalID: 2171491590024694760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_96
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27af2e264fb0fc280800000000000000
+      internalID: -9020978384340845966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_97
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b973e9dad1d012340800000000000000
+      internalID: 4837161895890663323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33cbad4531aaa6f0800000000000000
+      internalID: -672547944030026947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_99
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7897279c05eba60800000000000000
+      internalID: 7691674039734601714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_100
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae9dbd0143ab1b10800000000000000
+      internalID: 1953334363193974443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_101
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27906207997d54e20800000000000000
+      internalID: 3334308153149229426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_102
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cf7c4aad64922f0800000000000000
+      internalID: -997187937604469678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_103
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75d0e3f6c0d7c590800000000000000
+      internalID: -7653919488779168387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_104
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cddbdff0873e6c0800000000000000
+      internalID: -4115313624409580459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_105
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e337831328aa3f800800000000000000
+      internalID: 645046647792366398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_106
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b64b5abace44980800000000000000
+      internalID: -8555453170133472439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_107
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb44bedefb5468a0800000000000000
+      internalID: -6312819627450414082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_108
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98d13c95c3ab37d0800000000000000
+      internalID: -2937574262804719459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_109
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a182bb01284f8720800000000000000
+      internalID: 2850576395916181922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_110
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8a54cf0eedceaf0800000000000000
+      internalID: -365672411837388583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_111
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a89e935da253ac0800000000000000
+      internalID: -3876144808994436490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_112
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908cb119809eef2a0800000000000000
+      internalID: -6701662972477192183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_113
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2705951ee36cdf9c0800000000000000
+      internalID: -3891736529607241614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_114
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c406afef17933c0800000000000000
+      internalID: -4379343822704849833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET Game_115
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fc185d07ab6b24183c4dcf46f0f988
+      internalID: -1265132983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 950b5559750d52a4fa2cdc8a81b8b74b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      TILESET Game_0: 628612843465102316
+      TILESET Game_1: 2908735384057821650
+      TILESET Game_10: -4556273270640532945
+      TILESET Game_100: 1953334363193974443
+      TILESET Game_101: 3334308153149229426
+      TILESET Game_102: -997187937604469678
+      TILESET Game_103: -7653919488779168387
+      TILESET Game_104: -4115313624409580459
+      TILESET Game_105: 645046647792366398
+      TILESET Game_106: -8555453170133472439
+      TILESET Game_107: -6312819627450414082
+      TILESET Game_108: -2937574262804719459
+      TILESET Game_109: 2850576395916181922
+      TILESET Game_11: -9069933451132268471
+      TILESET Game_110: -365672411837388583
+      TILESET Game_111: -3876144808994436490
+      TILESET Game_112: -6701662972477192183
+      TILESET Game_113: -3891736529607241614
+      TILESET Game_114: -4379343822704849833
+      TILESET Game_115: -1265132983
+      TILESET Game_12: 2055301410805614548
+      TILESET Game_13: 8480993594746862533
+      TILESET Game_14: -2006352728241284640
+      TILESET Game_15: -3812767777179019794
+      TILESET Game_16: 2145984411220688289
+      TILESET Game_17: -3364056925848900625
+      TILESET Game_18: 7028063745833498562
+      TILESET Game_19: -2036155655457216665
+      TILESET Game_2: -196047571693155113
+      TILESET Game_20: 7226373832554521134
+      TILESET Game_21: 771941420377466643
+      TILESET Game_22: -3372343837483791324
+      TILESET Game_23: -6566338920037810280
+      TILESET Game_24: 6443646579343009733
+      TILESET Game_25: 8717848868376082982
+      TILESET Game_26: 997941666597566399
+      TILESET Game_27: -4437005533021805594
+      TILESET Game_28: -950352908187720862
+      TILESET Game_29: 435237088601589030
+      TILESET Game_3: -5817041527207480583
+      TILESET Game_30: 1296852893740442916
+      TILESET Game_31: -7412433579137753256
+      TILESET Game_32: -3080534632238322247
+      TILESET Game_33: -6051433740034225363
+      TILESET Game_34: -6534418207610209401
+      TILESET Game_35: -2271164502957178446
+      TILESET Game_36: 1848704956066650825
+      TILESET Game_37: 8336106579514655157
+      TILESET Game_38: 3975010009427400132
+      TILESET Game_39: 8920202065227714963
+      TILESET Game_4: 4326996161207055130
+      TILESET Game_40: 5276277804835573213
+      TILESET Game_41: -5607599343375293923
+      TILESET Game_42: 2154457202217971959
+      TILESET Game_43: -4149031534109572348
+      TILESET Game_44: 4616020385352936042
+      TILESET Game_45: 6951151787613390574
+      TILESET Game_46: -3287040599144938259
+      TILESET Game_47: -8143691682478138327
+      TILESET Game_48: 4895330450391687049
+      TILESET Game_49: -3062796178263851387
+      TILESET Game_5: 1249717291241112229
+      TILESET Game_50: -8668744747765054653
+      TILESET Game_51: -7347639768076300509
+      TILESET Game_52: 2841850835924620073
+      TILESET Game_53: 1380298903295053522
+      TILESET Game_54: -6536820206577918545
+      TILESET Game_55: 8475987462477234371
+      TILESET Game_56: 6924207497475902592
+      TILESET Game_57: -9103712187825527213
+      TILESET Game_58: 4518264029069184440
+      TILESET Game_59: -1562469577532292065
+      TILESET Game_6: -8598578587048978116
+      TILESET Game_60: -5223404982539381131
+      TILESET Game_61: 4460637480711900709
+      TILESET Game_62: 8879451610454574415
+      TILESET Game_63: 8407893037982833152
+      TILESET Game_64: 3801634515815563278
+      TILESET Game_65: -3349004093944397161
+      TILESET Game_66: 8727651242649590759
+      TILESET Game_67: -6418942126685766014
+      TILESET Game_68: -5116374873575338783
+      TILESET Game_69: 2882922237437665077
+      TILESET Game_7: -2112978128703274500
+      TILESET Game_70: -5185248813441557077
+      TILESET Game_71: 8637402193982289137
+      TILESET Game_72: -7248753975300415849
+      TILESET Game_73: -6388315301806196454
+      TILESET Game_74: 4886637355303086327
+      TILESET Game_75: -8944328325341126399
+      TILESET Game_76: -2538233189193843822
+      TILESET Game_77: -2282290030677977242
+      TILESET Game_78: 501082116496287075
+      TILESET Game_79: 7768120157450886001
+      TILESET Game_8: 7024829329042460508
+      TILESET Game_80: -8385972337606748339
+      TILESET Game_81: 1987989110320885279
+      TILESET Game_82: 9082483551758788673
+      TILESET Game_83: -1354125647407640522
+      TILESET Game_84: 2099557995749972599
+      TILESET Game_85: 4696545078749194244
+      TILESET Game_86: 3170841923528074743
+      TILESET Game_87: 329302565037589432
+      TILESET Game_88: -2081195200439311028
+      TILESET Game_89: 1995207948103809933
+      TILESET Game_9: 5854733136404506138
+      TILESET Game_90: 4152626508693470760
+      TILESET Game_91: -5562287518847345708
+      TILESET Game_92: 4100743008054205594
+      TILESET Game_93: -6642503088537130634
+      TILESET Game_94: -2168392957899890428
+      TILESET Game_95: 2171491590024694760
+      TILESET Game_96: -9020978384340845966
+      TILESET Game_97: 4837161895890663323
+      TILESET Game_98: -672547944030026947
+      TILESET Game_99: 7691674039734601714
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

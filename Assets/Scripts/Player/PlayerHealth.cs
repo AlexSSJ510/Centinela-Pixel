@@ -1,51 +1,61 @@
 using UnityEngine;
 
-public class PlayerHealth : MonoBehaviour, IDamageable
+public class PlayerHealth : MonoBehaviour
 {
-    public int maxHP = 10;
-    private int hp;
+    [SerializeField] private int maxHealth = 10;
+    private int currentHealth;
 
-    private Animator anim;
-    private bool isDead = false;
+    public System.Action<int> OnHealthChanged;
+    public System.Action OnPlayerDeath;
 
-    private void Awake()
+    private void Start()
     {
-        hp = maxHP;
-        anim = GetComponent<Animator>();
+        currentHealth = maxHealth;
     }
 
-    public void TakeDamage(int dmg)
+    public void TakeDamage(int damage)
     {
-        if (isDead) return;
+        if (currentHealth <= 0) return;
 
-        hp -= dmg;
-        Debug.Log("Player recibi� da�o. HP: " + hp);
+        currentHealth = Mathf.Max(0, currentHealth - damage);
+        OnHealthChanged?.Invoke(currentHealth);
 
-        if (hp <= 0)
+        if (currentHealth <= 0)
         {
             Die();
         }
-        else
-        {
-            anim.SetTrigger("Hurt"); // si tienes animaci�n
-        }
+    }
+
+    public void Heal(int amount)
+    {
+        currentHealth = Mathf.Min(maxHealth, currentHealth + amount);
+        OnHealthChanged?.Invoke(currentHealth);
     }
 
     private void Die()
     {
-        isDead = true;
-        Debug.Log("PLAYER MURI�");
+        OnPlayerDeath?.Invoke();
 
-        anim.SetTrigger("Die");
-
-        // Desactivar movimiento y ataque
+        // Desactivar controles
         GetComponent<PlayerController>().enabled = false;
 
-        // opcional: congelar f�sica
-        if (TryGetComponent<Rigidbody2D>(out var rb))
-            rb.linearVelocity = Vector2.zero;
+        // Animación de muerte
+        GetComponent<Animator>().SetTrigger("Die");
 
-        // Desaparecer luego de animaci�n
-        Destroy(gameObject, 1.2f);
+        Debug.Log("Player murió - Game Over");
+
+        // Reiniciar escena después de tiempo
+        Invoke(nameof(Respawn), 2f);
     }
+
+    private void Respawn()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene(
+            UnityEngine.SceneManagement.SceneManager.GetActiveScene().name
+        );
+    }
+
+    public bool IsAlive() => currentHealth > 0;
+    public int GetCurrentHealth() => currentHealth;
+    public float GetHealthPercentage() => (float)currentHealth / maxHealth;
 }
