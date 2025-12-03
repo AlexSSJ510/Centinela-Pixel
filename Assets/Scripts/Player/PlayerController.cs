@@ -1,8 +1,9 @@
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.InputSystem;
 using System.Collections;
 
-[RequireComponent(typeof(Rigidbody2D), typeof(Animator), typeof(SpriteRenderer))]
+[RequireComponent(typeof(Rigidbody2D), typeof(Animator))]
 public class PlayerController : MonoBehaviour
 {
     [Header("Movement")]
@@ -12,6 +13,11 @@ public class PlayerController : MonoBehaviour
     public GameObject attackHitbox;
     public float attackDuration = 0.15f;
 
+    [Header("Health")]
+    public int maxHealth = 10;
+    public float invulnerabilityTime = 1f;
+    public Slider healthSlider;
+
     [Header("Interaction")]
     public float interactRange = 1f;
     public Transform carryPoint;
@@ -20,23 +26,58 @@ public class PlayerController : MonoBehaviour
     // Componentes
     private Rigidbody2D rb;
     private Animator animator;
+    private SpriteRenderer spriteRenderer;
     private PlayerInputActions input;
 
     // Estado
     private Vector2 moveInput;
     private Vector2 lastDirection = Vector2.down;
     private bool isAttacking = false;
+    private bool isInvulnerable = false;
     private GameObject carriedObject = null;
+
+    // Salud
+    private int currentHealth;
 
     // Propiedades
     public bool IsCarrying => carriedObject != null;
     public Vector2 LastDirection => lastDirection;
+    public bool IsInvulnerable => isInvulnerable;
+    public int CurrentHealth => currentHealth;
+    public int MaxHealth => maxHealth;
+
+    public System.Action<int> OnHealthChanged;
+    public System.Action OnPlayerDeath;
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
         input = new PlayerInputActions();
+
+        // Inicializar salud
+        currentHealth = maxHealth;
+    }
+
+    void Start()
+    {
+        if (attackHitbox != null)
+        {
+            // Desactivar collider al inicio
+            Collider2D col = attackHitbox.GetComponent<Collider2D>();
+            if (col != null)
+            {
+                col.enabled = false;
+                Debug.Log("Collider desactivado al inicio");
+            }
+
+            // Asegurar que el GameObject S√ç est√© activo
+            attackHitbox.SetActive(true);
+        }
+        // Inicializar salud UI
+        currentHealth = maxHealth;
+        UpdateHealthUI();
     }
 
     void OnEnable()
@@ -57,7 +98,6 @@ public class PlayerController : MonoBehaviour
     {
         Vector2 raw = ctx.ReadValue<Vector2>();
 
-        // Movimiento cardinal (estilo Zelda)
         if (raw.magnitude > 0.1f)
         {
             if (Mathf.Abs(raw.x) > Mathf.Abs(raw.y))
@@ -88,14 +128,9 @@ public class PlayerController : MonoBehaviour
 
     void UpdateAnimator()
     {
-        // Siempre pasar la ˙ltima direcciÛn (para idle)
         animator.SetFloat("DirX", lastDirection.x);
         animator.SetFloat("DirY", lastDirection.y);
-
-        // Velocidad para walk/ idle
         animator.SetFloat("Speed", moveInput.magnitude);
-
-        // Estado de carga
         animator.SetBool("IsCarrying", IsCarrying);
     }
 
@@ -103,7 +138,6 @@ public class PlayerController : MonoBehaviour
     {
         if (isAttacking || IsCarrying) return;
 
-        // IMPORTANTE: Setear direcciÛn ANTES del trigger
         animator.SetFloat("AtkDirX", lastDirection.x);
         animator.SetFloat("AtkDirY", lastDirection.y);
         animator.SetTrigger("Attack");
@@ -113,21 +147,115 @@ public class PlayerController : MonoBehaviour
 
     IEnumerator PerformAttack()
     {
+        if (isAttacking || IsCarrying)
+            yield break;
+
         isAttacking = true;
 
-        if (attackHitbox != null)
+        // Activar animaci√≥n
+        animator.SetFloat("AtkDirX", lastDirection.x);
+        animator.SetFloat("AtkDirY", lastDirection.y);
+        animator.SetTrigger("Attack");
+
+         attackHitbox.transform.localPosition = lastDirection * 0.5f;
+
+        if (lastDirection.x != 0)
         {
-            // Posicionar hitbox en direcciÛn
-            attackHitbox.transform.localPosition = lastDirection * 0.5f;
-            attackHitbox.SetActive(true);
+            // Horizontal
+            attackHitbox.transform.localRotation = Quaternion.identity;
+            attackHitbox.transform.localScale = new Vector3(Mathf.Sign(lastDirection.x), 1, 1);
+        }
+        else if (lastDirection.y > 0)
+        {
+            // Arriba
+            attackHitbox.transform.localRotation = Quaternion.Euler(0, 0, 90);
+        }
+        else if (lastDirection.y < 0)
+        {
+            attackHitbox.transform.localRotation = Quaternion.Euler(0, 0, -90);
+        }
+
+        Collider2D attackCollider = attackHitbox.GetComponent<Collider2D>();
+        if (attackCollider != null)
+        {
+            attackCollider.enabled = true;
+            Debug.Log("Collider ACTIVADO");
         }
 
         yield return new WaitForSeconds(attackDuration);
 
+        if (attackCollider != null)
+        {
+            attackCollider.enabled = false;
+            Debug.Log("Collider DESACTIVADO");
+        }
+
+        isAttacking = false;
+    }
+
+    public void TakeDamage(int damage)
+    {
+        if (isInvulnerable || currentHealth <= 0) return;
+
+        currentHealth = Mathf.Max(0, currentHealth - damage);
+        UpdateHealthUI(); // <-- Actualizar UI
+
+        if (currentHealth <= 0)
+        {
+            Die();
+        }
+        else
+        {
+            StartCoroutine(Invulnerability());
+        }
+    }
+
+    IEnumerator Invulnerability()
+    {
+        isInvulnerable = true;
+        float timer = 0f;
+
+        while (timer < invulnerabilityTime)
+        {
+            spriteRenderer.enabled = !spriteRenderer.enabled;
+            yield return new WaitForSeconds(0.1f);
+            timer += 0.1f;
+        }
+
+        spriteRenderer.enabled = true;
+        isInvulnerable = false;
+    }
+
+    void Die()
+    {
+        // Desactivar controles
+        enabled = false;
         if (attackHitbox != null)
             attackHitbox.SetActive(false);
 
-        isAttacking = false;
+        // Animaci√≥n de muerte
+        animator.SetTrigger("Die");
+
+        Debug.Log("Player muri√≥ - Game Over");
+
+        // Reiniciar escena
+        Invoke(nameof(Respawn), 2f);
+    }
+
+    private void Respawn()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene(
+            UnityEngine.SceneManagement.SceneManager.GetActiveScene().name
+        );
+    }
+
+    void UpdateHealthUI()
+    {
+        if (healthSlider != null)
+        {
+            healthSlider.maxValue = maxHealth;
+            healthSlider.value = currentHealth;
+        }
     }
 
     void OnInteract(InputAction.CallbackContext ctx)
@@ -173,4 +301,14 @@ public class PlayerController : MonoBehaviour
         carriedObject.GetComponent<IPortable>()?.OnDropped();
         carriedObject = null;
     }
+
+    public void Heal(int amount)
+    {
+        currentHealth = Mathf.Min(maxHealth, currentHealth + amount);
+        UpdateHealthUI();
+    }
+
+    public bool IsAlive() => currentHealth > 0;
+    public int GetCurrentHealth() => currentHealth;
+    public int GetMaxHealth() => maxHealth;
 }

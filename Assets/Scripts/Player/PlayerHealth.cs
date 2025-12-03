@@ -1,61 +1,86 @@
 using UnityEngine;
+using UnityEngine.UI;
 
-public class PlayerHealth : MonoBehaviour
+public class PlayerHealth : MonoBehaviour, IDamageable
 {
-    [SerializeField] private int maxHealth = 10;
+    [Header("Health Settings")]
+    public int maxHealth = 10;
+    public float invulnerabilityTime = 1f;
+
+    [Header("UI Reference")]
+    public Slider healthSlider;
+    public Text healthText;
+
     private int currentHealth;
+    private bool isInvulnerable = false;
+    private SpriteRenderer spriteRenderer;
 
-    public System.Action<int> OnHealthChanged;
-    public System.Action OnPlayerDeath;
-
-    private void Start()
+    void Start()
     {
         currentHealth = maxHealth;
+        spriteRenderer = GetComponent<SpriteRenderer>();
+
+        UpdateUI();
     }
 
     public void TakeDamage(int damage)
     {
-        if (currentHealth <= 0) return;
+        if (isInvulnerable || currentHealth <= 0) return;
 
         currentHealth = Mathf.Max(0, currentHealth - damage);
-        OnHealthChanged?.Invoke(currentHealth);
+        UpdateUI();
+
+        StartCoroutine(DamageFlash());
 
         if (currentHealth <= 0)
-        {
             Die();
+    }
+
+    System.Collections.IEnumerator DamageFlash()
+    {
+        isInvulnerable = true;
+
+        // Parpadeo
+        float timer = 0f;
+        while (timer < invulnerabilityTime)
+        {
+            spriteRenderer.enabled = !spriteRenderer.enabled;
+            yield return new WaitForSeconds(0.1f);
+            timer += 0.1f;
         }
+
+        spriteRenderer.enabled = true;
+        isInvulnerable = false;
     }
 
-    public void Heal(int amount)
+    void Die()
     {
-        currentHealth = Mathf.Min(maxHealth, currentHealth + amount);
-        OnHealthChanged?.Invoke(currentHealth);
-    }
+        Debug.Log("Player murió");
 
-    private void Die()
-    {
-        OnPlayerDeath?.Invoke();
-
-        // Desactivar controles
-        GetComponent<PlayerController>().enabled = false;
-
-        // Animación de muerte
-        GetComponent<Animator>().SetTrigger("Die");
-
-        Debug.Log("Player murió - Game Over");
-
-        // Reiniciar escena después de tiempo
+        // Reiniciar escena
         Invoke(nameof(Respawn), 2f);
     }
 
-    private void Respawn()
+    void Respawn()
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene(
             UnityEngine.SceneManagement.SceneManager.GetActiveScene().name
         );
     }
 
-    public bool IsAlive() => currentHealth > 0;
+    void UpdateUI()
+    {
+        if (healthSlider != null)
+        {
+            healthSlider.maxValue = maxHealth;
+            healthSlider.value = currentHealth;
+        }
+
+        if (healthText != null)
+            healthText.text = $"{currentHealth}/{maxHealth}";
+    }
+
     public int GetCurrentHealth() => currentHealth;
-    public float GetHealthPercentage() => (float)currentHealth / maxHealth;
+    public int GetMaxHealth() => maxHealth;
+    public bool IsAlive() => currentHealth > 0;
 }
